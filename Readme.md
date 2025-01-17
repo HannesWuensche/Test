@@ -80,19 +80,19 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Soziale Unterstützung (ab 18 Jahre)](#indikator-soziale-unterst%C3%BCtzung-ab-18-jahre) | `1010301` | 20\.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/soziale-unterstuetzung) |
-| [Bewegungsverhalten (ab 18 Jahre)](#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/bewegungsverhalten) |
-| [Sitzen (ab 18 Jahre)](#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/sitzen) |
-| [Aktive Mobilität (ab 18 Jahre)](#indikator-aktive-mobilitt-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/aktive-mobilitaet) |
-| [Adipositas und Übergewicht (ab 18 Jahre)](#indikator-adipositas-und-bergewicht-ab-18-jahre) | `1020201` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
-| [Fleischkonsum (ab 18 Jahre)](#indikator-fleischkonsum-ab-18-jahre) | `1020301` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/fleischkonsum) |
-| [Obst- und Gemüsekonsum (ab 18 Jahre)](#indikator-obst--und-gemsekonsum-ab-18-jahre) | `1020302` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/obst-und-gemuesekonsum) |
-| [Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)](#indikator-zuckerhaltige-erfrischungsgetrnke-ab-18-jahre) | `1020303` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke) |
-| [Alkohol: Riskanter Konsum (ab 18 Jahre)](#indikator-alkohol-riskanter-konsum-ab-18-jahre) | `1020401` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/riskanter-alkoholkonsum) |
+| [Soziale Unterstützung (ab 18 Jahre)](#indikator-soziale-unterst%C3%BCtzung-ab-18-jahre) | `1010301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/soziale-unterstuetzung) |
+| [Bewegungsverhalten (ab 18 Jahre)](#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/bewegungsverhalten) |
+| [Sitzen (ab 18 Jahre)](#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/sitzen) |
+| [Aktive Mobilität (ab 18 Jahre)](#indikator-aktive-mobilit%C3%A4t-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/aktive-mobilitaet) |
+| [Adipositas und Übergewicht (ab 18 Jahre)](#indikator-adipositas-und-%C3%BCbergewicht-ab-18-jahre) | `1020201` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
+| [Fleischkonsum (ab 18 Jahre)](#indikator-fleischkonsum-ab-18-jahre) | `1020301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/fleischkonsum) |
+| [Obst- und Gemüsekonsum (ab 18 Jahre)](#indikator-obst--und-gem%C3%BCsekonsum-ab-18-jahre) | `1020302` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/obst-und-gemuesekonsum) |
+| [Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)](#indikator-zuckerhaltige-erfrischungsgetr%C3%A4nke-ab-18-jahre) | `1020303` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke) |
+| [Alkohol: Riskanter Konsum (ab 18 Jahre)](#indikator-alkohol-riskanter-konsum-ab-18-jahre) | `1020401` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/riskanter-alkoholkonsum) |
 | [Rauschtrinken (ab 18 Jahre)](#indikator-rauschtrinken-ab-18-jahre) | `1020402` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/rauschtrinken) |
 | [Rauchen (ab 18 Jahre)](#indikator-rauchen-ab-18-jahre) | `1020501` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/rauchen) |
-| [Passivrauchbelastung (ab 18 Jahre)](#indikator-passivrauchbelastung-ab-18-jahre) | `1020502` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/passivrauchbelastung) |
-| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `1030101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/diabetes-risiko) |
+| [Passivrauchbelastung (ab 18 Jahre)](#indikator-passivrauchbelastung-ab-18-jahre) | `1020502` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/passivrauchbelastung) |
+| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `1030101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/diabetes-risiko) |
 | [Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)](#indikator-herz-kreislauf-erkrankung-10-jahres-risiko-18--79-jahre) | `1030102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/hke-risiko) |
 
 ### Gesundheitszustand
@@ -101,39 +101,39 @@ Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)](#indikator-selbsteingeschtzte-allgemeine-gesundheit-ab-18-jahre) | `2010101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit) |
-| [Selbsteingeschätzte psychische Gesundheit (ab 18 Jahre)](#indikator-selbsteingeschtzte-psychische-gesundheit-ab-18-jahre) | `2010102` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit) |
-| [Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)](#indikator-koronare-herzkrankheit-prvalenz-ab-18-jahre) | `2020101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/khk-praevalenz) |
-| [Koronare Herzkrankheit: Sterblichkeit](#indikator-koronare-herzkrankheit-sterblichkeit) | `2020102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/khk-sterblichkeit) |
-| [Schlaganfall: Prävalenz (ab 18 Jahre)](#indikator-schlaganfall-prvalenz-ab-18-jahre) | `2020103` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/schlaganfall-praevalenz) |
-| [Schlaganfall: Sterblichkeit](#indikator-schlaganfall-sterblichkeit) | `2020104` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/schlaganfall-sterblichkeit) |
+| [Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)](#indikator-selbsteingesch%C3%A4tzte-allgemeine-gesundheit-ab-18-jahre) | `2010101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit) |
+| [Selbsteingeschätzte psychische Gesundheit (ab 18 Jahre)](#indikator-selbsteingesch%C3%A4tzte-psychische-gesundheit-ab-18-jahre) | `2010102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit) |
+| [Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)](#indikator-koronare-herzkrankheit-pr%C3%A4valenz-ab-18-jahre) | `2020101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/khk-praevalenz) |
+| [Koronare Herzkrankheit: Sterblichkeit](#indikator-koronare-herzkrankheit-sterblichkeit) | `2020102` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/khk-sterblichkeit) |
+| [Schlaganfall: Prävalenz (ab 18 Jahre)](#indikator-schlaganfall-pr%C3%A4valenz-ab-18-jahre) | `2020103` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/schlaganfall-praevalenz) |
+| [Schlaganfall: Sterblichkeit](#indikator-schlaganfall-sterblichkeit) | `2020104` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/schlaganfall-sterblichkeit) |
 | [Diabetes Typ 1: Inzidenz (0 – 17 Jahre)](#indikator-diabetes-typ-1-inzidenz-0--17-jahre) | `2020201` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/t1d-inzidenz-unter-18) |
-| [Diabetes Typ 2: Inzidenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-inzidenz-11--17-jahre) | `2020202` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/t2d-inzidenz-unter-18) |
-| [Diabetes Typ 1: Prävalenz (0 – 17 Jahre)](#indikator-diabetes-typ-1-prvalenz-0--17-jahre) | `2020203` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/t1d-praevalenz-unter-18) |
-| [Diabetes Typ 2: Prävalenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-prvalenz-11--17-jahre) | `2020204` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/t2d-praevalenz-unter-18) |
-| [Diabetes mellitus: Prävalenz (ab 18 Jahre)](#indikator-diabetes-mellitus-prvalenz-ab-18-jahre) | `2020206` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/diabetes-praevalenz) |
+| [Diabetes Typ 2: Inzidenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-inzidenz-11--17-jahre) | `2020202` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/t2d-inzidenz-unter-18) |
+| [Diabetes Typ 1: Prävalenz (0 – 17 Jahre)](#indikator-diabetes-typ-1-pr%C3%A4valenz-0--17-jahre) | `2020203` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/t1d-praevalenz-unter-18) |
+| [Diabetes Typ 2: Prävalenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-pr%C3%A4valenz-11--17-jahre) | `2020204` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/t2d-praevalenz-unter-18) |
+| [Diabetes mellitus: Prävalenz (ab 18 Jahre)](#indikator-diabetes-mellitus-pr%C3%A4valenz-ab-18-jahre) | `2020206` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/diabetes-praevalenz) |
 | [Diabetes mellitus: Sterblichkeit](#indikator-diabetes-mellitus-sterblichkeit) | `2020207` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/diabetes-sterblichkeit) |
-| [Gestationsdiabetes mellitus: Prävalenz](#indikator-gestationsdiabetes-mellitus-prvalenz) | `2020208` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/gestationsdiabetes) |
+| [Gestationsdiabetes mellitus: Prävalenz](#indikator-gestationsdiabetes-mellitus-pr%C3%A4valenz) | `2020208` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/gestationsdiabetes) |
 | [Brustkrebs: Inzidenz](#indikator-brustkrebs-inzidenz) | `2020301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/brustkrebs-inzidenz) |
 | [Brustkrebs: Sterblichkeit](#indikator-brustkrebs-sterblichkeit) | `2020302` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/brustkrebs-sterblichkeit) |
-| [Darmkrebs: Inzidenz](#indikator-darmkrebs-inzidenz) | `2020303` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/darmkrebs-inzidenz) |
-| [Darmkrebs: Sterblichkeit](#indikator-darmkrebs-sterblichkeit) | `2020304` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/darmkrebs-sterblichkeit) |
-| [COPD: Prävalenz (ab 45 Jahre)](#indikator-copd-prvalenz-ab-45-jahre) | `2020401` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/copd-praevalenz) |
-| [Asthma: Prävalenz (ab 18 Jahre)](#indikator-asthma-prvalenz-ab-18-jahre) | `2020403` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/asthma-praevalenz) |
-| [Arthrose: Prävalenz (ab 18 Jahre)](#indikator-arthrose-prvalenz-ab-18-jahre) | `2020501` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/arthrose-praevalenz) |
-| [Unfallverletzungen (ab 18 Jahre)](#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/unfallverletzungen) |
-| [Stürze (ab 65 Jahre)](#indikator-strze-ab-65-jahre) | `2030102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/stuerze) |
-| [Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-psychische-strungen-administrative-prvalenz-ab-18-jahre) | `2040101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz) |
-| [Depression: Administrative Prävalenz (ab 18 Jahre)](#indikator-depression-administrative-prvalenz-ab-18-jahre) | `2040201` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/depression-admin-praevalenz) |
-| [Depressive Symptomatik: Prävalenz (ab 18 Jahre)](#indikator-depressive-symptomatik-prvalenz-ab-18-jahre) | `2040202` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/depressive-symptomatik) |
-| [Angststörungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-angststrungen-administrative-prvalenz-ab-18-jahre) | `2040301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/angststoerungen-admin-praevalenz) |
-| [Angstsymptome: Prävalenz (ab 18 Jahre)](#indikator-angstsymptome-prvalenz-ab-18-jahre) | `2040302` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/angstsymptome) |
-| [Sterblichkeit](#indikator-sterblichkeit) | `2050101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/sterblichkeit) |
-| [Lebenserwartung](#indikator-lebenserwartung) | `2050103` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/lebenserwartung) |
-| [Körperliche Einschränkungen (ab 18 Jahre)](#indikator-krperliche-einschrnkungen-ab-18-jahre) | `2050301` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/koerperliche-einschraenkungen) |
-| [Kognitive Einschränkungen (ab 18 Jahre)](#indikator-kognitive-einschrnkungen-ab-18-jahre) | `2050302` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/kognitive-einschraenkungen) |
-| [Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)](#indikator-einschrnkungen-bei-alltagsaktivitten-ab-18-jahre) | `2050303` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/gali) |
-| [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)](#indikator-einschrnkungen-in-instrumentellen-aktivitten-des-tglichen-lebens-ab-65-jahre) | `2050304` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/iadl) |
+| [Darmkrebs: Inzidenz](#indikator-darmkrebs-inzidenz) | `2020303` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/darmkrebs-inzidenz) |
+| [Darmkrebs: Sterblichkeit](#indikator-darmkrebs-sterblichkeit) | `2020304` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/darmkrebs-sterblichkeit) |
+| [COPD: Prävalenz (ab 45 Jahre)](#indikator-copd-pr%C3%A4valenz-ab-45-jahre) | `2020401` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/copd-praevalenz) |
+| [Asthma: Prävalenz (ab 18 Jahre)](#indikator-asthma-pr%C3%A4valenz-ab-18-jahre) | `2020403` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/asthma-praevalenz) |
+| [Arthrose: Prävalenz (ab 18 Jahre)](#indikator-arthrose-pr%C3%A4valenz-ab-18-jahre) | `2020501` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/arthrose-praevalenz) |
+| [Unfallverletzungen (ab 18 Jahre)](#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/unfallverletzungen) |
+| [Stürze (ab 65 Jahre)](#indikator-st%C3%BCrze-ab-65-jahre) | `2030102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/stuerze) |
+| [Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-psychische-st%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz) |
+| [Depression: Administrative Prävalenz (ab 18 Jahre)](#indikator-depression-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040201` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/depression-admin-praevalenz) |
+| [Depressive Symptomatik: Prävalenz (ab 18 Jahre)](#indikator-depressive-symptomatik-pr%C3%A4valenz-ab-18-jahre) | `2040202` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/depressive-symptomatik) |
+| [Angststörungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-angstst%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/angststoerungen-admin-praevalenz) |
+| [Angstsymptome: Prävalenz (ab 18 Jahre)](#indikator-angstsymptome-pr%C3%A4valenz-ab-18-jahre) | `2040302` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/angstsymptome) |
+| [Sterblichkeit](#indikator-sterblichkeit) | `2050101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/sterblichkeit) |
+| [Lebenserwartung](#indikator-lebenserwartung) | `2050103` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/lebenserwartung) |
+| [Körperliche Einschränkungen (ab 18 Jahre)](#indikator-k%C3%B6rperliche-einschr%C3%A4nkungen-ab-18-jahre) | `2050301` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/koerperliche-einschraenkungen) |
+| [Kognitive Einschränkungen (ab 18 Jahre)](#indikator-kognitive-einschr%C3%A4nkungen-ab-18-jahre) | `2050302` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/kognitive-einschraenkungen) |
+| [Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)](#indikator-einschr%C3%A4nkungen-bei-alltagsaktivit%C3%A4ten-ab-18-jahre) | `2050303` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/gali) |
+| [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)](#indikator-einschr%C3%A4nkungen-in-instrumentellen-aktivit%C3%A4ten-des-t%C3%A4glichen-lebens-ab-65-jahre) | `2050304` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/iadl) |
 | [Chronisches Kranksein (ab 18 Jahre)](#indikator-chronisches-kranksein-ab-18-jahre) | `2050305` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/chronisches-kranksein) |
 
 ### Gesundheitsförderung, Prävention und Versorgung
@@ -142,15 +142,15 @@ Im Bereich Gesundheitsförderung und Prävention werden die Inanspruchnahme von 
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Zahnvorsorgeuntersuchungen (ab 18 Jahre)](#indikator-zahnvorsorgeuntersuchungen-ab-18-jahre) | `3010101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/zahnvorsorge) |
-| [Influenza: Impfquote (ab 60 Jahre)](#indikator-influenza-impfquote-ab-60-jahre) | `3010102` | 17.&nbsp;Dezember&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/influenzaimpfung) |
-| [Darmkrebsfrüherkennung (ab 50/55 Jahre)](#indikator-darmkrebsfrherkennung-ab-5055-jahre) | `3010103` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/darmkrebsfrueherkennung) |
-| [Inanspruchnahme allgemeinärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-allgemeinrztlicher-leistungen-ab-18-jahre) | `3020101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/allgemeinaerztliche-versorgung) |
-| [Inanspruchnahme fachärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-fachrztlicher-leistungen-ab-18-jahre) | `3020102` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/fachaerztliche-versorgung) |
-| [Inanspruchnahme von Krankenhausversorgung (ab 18 Jahre)](#indikator-inanspruchnahme-von-krankenhausversorgung-ab-18-jahre) | `3020201` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/krankenhausversorgung) |
+| [Zahnvorsorgeuntersuchungen (ab 18 Jahre)](#indikator-zahnvorsorgeuntersuchungen-ab-18-jahre) | `3010101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/zahnvorsorge) |
+| [Influenza: Impfquote (ab 60 Jahre)](#indikator-influenza-impfquote-ab-60-jahre) | `3010102` | 17.&nbsp;Dezember&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/influenzaimpfung) |
+| [Darmkrebsfrüherkennung (ab 50/55 Jahre)](#indikator-darmkrebsfr%C3%BCherkennung-ab-5055-jahre) | `3010103` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/darmkrebsfrueherkennung) |
+| [Inanspruchnahme allgemeinärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-allgemein%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020101` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/allgemeinaerztliche-versorgung) |
+| [Inanspruchnahme fachärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-fach%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020102` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/fachaerztliche-versorgung) |
+| [Inanspruchnahme von Krankenhausversorgung (ab 18 Jahre)](#indikator-inanspruchnahme-von-krankenhausversorgung-ab-18-jahre) | `3020201` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/krankenhausversorgung) |
 | [Pflegeleistungen](#indikator-pflegeleistungen) | `3020301` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/pflegeleistungen) |
 | [Diabetesbedingte Amputationen (ab 15 Jahre)](#indikator-diabetesbedingte-amputationen-ab-15-jahre) | `3020401` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/diabetes-amputationen) |
-| [Diabetes: Ambulant-sensitive Krankenhausfälle (ab 15 Jahre)](#indikator-diabetes-ambulant-sensitive-krankenhausflle-ab-15-jahre) | `3020402` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/diabetes-krankenhausfaelle) |
+| [Diabetes: Ambulant-sensitive Krankenhausfälle (ab 15 Jahre)](#indikator-diabetes-ambulant-sensitive-krankenhausf%C3%A4lle-ab-15-jahre) | `3020402` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/diabetes-krankenhausfaelle) |
 
 ### Rahmenbedingungen
 
@@ -158,13 +158,13 @@ Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahm
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Tabakkontrolle](#indikator-tabakkontrolle) | `4010101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/tabakkontrolle) |
-| [Lebensmittelbesteuerung](#indikator-lebensmittelbesteuerung) | `4010102` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/lebensmittelbesteuerung) |
-| [Präventionsausgaben](#indikator-prventionsausgaben) | `4010103` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/praeventionsausgaben) |
-| [Verbraucherpreisindex](#indikator-verbraucherpreisindex) | `4020101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/verbraucherpreisindex) |
-| [Armutsrisikoquote](#indikator-armutsrisikoquote) | `4020102` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/armutsrisikoquote) |
-| [Arbeitslosenquote (15 – 64 Jahre)](#indikator-arbeitslosenquote-15--64-jahre) | `4020103` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/arbeitslosenquote) |
-| [Hochschulbildung (ab 25 Jahre)](#indikator-hochschulbildung-ab-25-jahre) | `4020104` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/hochschulbildung) |
+| [Tabakkontrolle](#indikator-tabakkontrolle) | `4010101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/tabakkontrolle) |
+| [Lebensmittelbesteuerung](#indikator-lebensmittelbesteuerung) | `4010102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/lebensmittelbesteuerung) |
+| [Präventionsausgaben](#indikator-pr%C3%A4ventionsausgaben) | `4010103` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/praeventionsausgaben) |
+| [Verbraucherpreisindex](#indikator-verbraucherpreisindex) | `4020101` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/verbraucherpreisindex) |
+| [Armutsrisikoquote](#indikator-armutsrisikoquote) | `4020102` | 20.&nbsp;November&nbsp;2024 | [:earth_asia:](https://www.gbe.rki.de/armutsrisikoquote) |
+| [Arbeitslosenquote (15 – 64 Jahre)](#indikator-arbeitslosenquote-15--64-jahre) | `4020103` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/arbeitslosenquote) |
+| [Hochschulbildung (ab 25 Jahre)](#indikator-hochschulbildung-ab-25-jahre) | `4020104` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/hochschulbildung) |
 | [Verkehrsmittelnutzung](#indikator-verkehrsmittelnutzung) | `4030101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/verkehrsmittelnutzung) |
 
 ## Aufbau und Inhalt des Datensatzes  
