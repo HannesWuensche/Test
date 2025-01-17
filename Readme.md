@@ -80,7 +80,7 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Soziale Unterstützung (ab 18 Jahre)](#indikator-soziale-unterstutzung-ab-18-jahre) | `1010301` | 20\.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/soziale-unterstuetzung) |
+| [Soziale Unterstützung (ab 18 Jahre)](#indikator-soziale-unterst%C3%BCtzung-ab-18-jahre) | `1010301` | 20\.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/soziale-unterstuetzung) |
 | [Bewegungsverhalten (ab 18 Jahre)](#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [:earth_africa:](https://www.gbe.rki.de/bewegungsverhalten) |
 | [Sitzen (ab 18 Jahre)](#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/sitzen) |
 | [Aktive Mobilität (ab 18 Jahre)](#indikator-aktive-mobilitt-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [:earth_americas:](https://www.gbe.rki.de/aktive-mobilitaet) |
