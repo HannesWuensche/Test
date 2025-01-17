@@ -272,7 +272,7 @@ Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung 
 
 Indikator_ID: 1010301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/soziale-unterstuetzung)
+[Link zur Website](https://www.gbe.rki.de/soziale-unterstuetzung)
 
 Soziale Unterstützung umfasst emotionale, instrumentelle und informationelle Ressourcen, die einer Person über zwischenmenschliche Beziehungen und Netzwerke zur Verfügung stehen ([Wills und Shinar 2000](http://doi.org/10.1093/med:psych/9780195126709.003.0004 "Externer Link zur Publikation: Measuring Perceived and Received Social Support (Öffnet neues Fenster)")). Auf emotionaler Ebenen entfaltet sich Unterstützung durch Zuneigung, Fürsorge und Verständnis durch andere. Instrumentelle Unterstützung umfasst Hilfe bei der Bewältigung von Alltagsaufgaben oder finanzielle Unterstützung. Informationelle Unterstützung meint die Bereitstellung von Wissen und Informationen.
 
@@ -358,7 +358,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/bewegungsverhalten)
+[Link zur Website](https://www.gbe.rki.de/bewegungsverhalten)
 
 Regelmäßige Bewegung, auch körperliche Aktivität genannt, spielt eine wichtige Rolle bei der Prävention und Behandlung nichtübertragbarer Erkrankungen wie Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes, Brust- und Darmkrebs. Zudem wirkt sich regelmäßige Bewegung positiv auf die psychische Gesundheit aus und kann dazu beitragen, die Entstehung von [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu verhindern. Die aktuellen Bewegungsempfehlungen der Weltgesundheitsorganisation (WHO) sowie die nationalen Empfehlungen für Bewegung und Bewegungsförderung beinhalten für Erwachsene zwei Aspekte ([WHO 2020](https://iris.who.int/bitstream/handle/10665/337001/9789240014886-eng.pdf?sequence=1;%20BZgA%202017,%20https://shop.bzga.de/pdf/60640103.pdf "Externer Link zur Webseite der WHO: Guidelines on Physical Activity and Sedentary Behaviour (Öffnet neues Fenster)")): Zum einem wird empfohlen, mindestens 150 Minuten in der Woche mit einer mittleren bis hohen Intensität körperlich aktiv zu sein (Ausdaueraspekt). Zum anderen wird empfohlen, an mindestens zwei Tagen der Woche Übungen zur Kräftigung der Muskulatur durchzuführen (Muskelkräftigungsaspekt). Die empfohlene Bewegung kann in unterschiedlichen Lebensbereichen ausgeübt werden, beispielsweise in Form von gezieltem Sporttreiben in der Freizeit oder durch Zurücklegen von alltäglichen Wegstrecken mit dem Fahrrad.
 
@@ -437,7 +437,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/sitzen)
+[Link zur Website](https://www.gbe.rki.de/sitzen)
 
 Der Indikator Sitzen bezieht sich auf sogenanntes sedentäres Verhalten, das Tätigkeiten beinhaltet, die mit einem geringen Energieverbrauch einhergehen. Es sind demnach alle Tätigkeiten gemeint, die meist sitzend oder liegend ausgeführt werden, wobei das Schlafen nicht inbegriffen ist. Negative Gesundheitsfolgen von vermehrtem sedentärem Verhalten können Gebrechlichkeit, körperliche Einschränkungen, eine verminderte kognitive Leistungsfähigkeit sowie Depression sein ([Saunders et al. 2020](https://doi.org/10.1139/apnm-2020-0272 "Externer Link zur Publikation: Sedentary behaviour and health in adults: an overview of systematic reviews (Öffnet neues Fenster)")). Derzeit existieren keine konkreten Empfehlungen zur Dauer des sedentären Verhaltens, die täglich nicht überschritten werden sollte, da diesbezüglich die Studienlage nicht ausreichend ist. Die Weltgesundheitsorganisation (WHO) empfiehlt jedoch grundsätzlich, die Dauer des sedentären Verhaltens zu begrenzen und diese durch Bewegung zu ersetzen ([WHO 2020](https://iris.who.int/bitstream/handle/10665/337001/9789240014886-eng.pdf?sequence=1;%20BZgA%202017,%20https://shop.bzga.de/pdf/60640103.pdf "Externer Link zur Webseite der WHO: Guidelines on Physical Activity and Sedentary Behaviour (Öffnet neues Fenster)")). Zur besseren Lesbarkeit wird im nachfolgenden Text das Wort „Sitzen“ verwendet, wobei auch liegend ausgeführte Tätigkeiten gemeint sind.
 
@@ -493,7 +493,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/aktive-mobilitaet)
+[Link zur Website](https://www.gbe.rki.de/aktive-mobilitaet)
 
 Regelmäßige Bewegung spielt eine wichtige Rolle bei der Prävention und Behandlung einer Vielzahl nichtübertragbarer Erkrankungen wie Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes und Depression. Derzeit bewegt sich jedoch die deutliche Mehrheit der Erwachsenen in Deutschland zu wenig, um den optimalen Nutzen für die Gesundheit zu erreichen (siehe Indikator Bewegungsverhalten). Das körperlich aktive Zurücklegen von Wegstrecken, auch aktive Mobilität genannt, ist eine gute Möglichkeit, mehr Bewegung in den Alltag zu integrieren. Hierbei werden beispielsweise die Wegstrecken zum Einkaufen, zur Arbeitsstelle oder zu Freizeitaktivitäten körperlich aktiv zurückgelegt. Die häufigsten Formen der aktiven Mobilität sind das zu Fuß gehen und das Fahrradfahren. Durch aktive Mobilität kann auch zum Klimaschutz beigetragen werden, wenn der motorisierte Individualverkehr, unter anderem Auto fahren, durch aktive Mobilität ersetzt wird.
 
@@ -562,7 +562,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020201  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/adipositas-und-uebergewicht)
+[Link zur Website](https://www.gbe.rki.de/adipositas-und-uebergewicht)
 
 Übergewicht stellt ein über das Normalmaß hinausgehendes Körpergewicht bei einer gegebenen Körpergröße dar. Starkes Übergewicht wird als Adipositas bezeichnet und von der Weltgesundheitsorganisation (WHO) als eigenständige Krankheit eingestuft ([WHO 2000](https://iris.who.int/handle/10665/42330 "Externer Link zur Webseite der WHO: Obesity : preventing and managing the global epidemic : report of a WHO consultation (Öffnet neues Fenster)")). Eine Adipositas ist ein zentraler Risikofaktor für die Entstehung von nichtübertragbaren chronischen Erkrankungen, wie zum Beispiel Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen, Muskel- und Gelenkerkrankungen sowie verschiedenen Krebserkrankungen, und geht mit einem höheren Risiko, frühzeitig zu versterben einher.
 
@@ -620,7 +620,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/fleischkonsum)
+[Link zur Website](https://www.gbe.rki.de/fleischkonsum)
 
 Ein hoher Konsum von rotem Fleisch wie Rind-, Schweine- und Lammfleisch erhöht das Risiko für Krankheiten des Herz-Kreislauf-Systems, Darmkrebs und Typ-2-Diabetes ([Battaglia Richi et al. 2016](https://doi.org/10.1024/0300-9831/a000224 "Externer Link zur Publikation: Health Risks Associated with Meat Consumption: A Review of Epidemiological Studies (Öffnet neues Fenster)")). Für Geflügelfleisch wurde ein derartiger Zusammenhang nicht nachgewiesen. Auch führt die aktuelle Fleischerzeugung, insbesondere von Rindfleisch, zu hohen Emissionen von sogenannten Treibhausgasen, beeinträchtigt die biologische Vielfalt, erzeugt schädliche Nebenprodukte wie Stickstoff und Phosphor und erfordert einen hohen Verbrauch an Fläche und Wasser ([Willett et al. 2019](https://doi.org/10.1016/S0140-6736(18)31788-4 "Externer Link zur Publikation: Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems (Öffnet neues Fenster)")). Ein verringerter Fleischkonsum und eine stärker pflanzenbasierte Ernährung haben somit Vorteile sowohl für die Gesundheit als auch für die Umwelt und das Klima. Aktuell empfiehlt die Deutsche Gesellschaft für Ernährung für Erwachsene einen maximalen Verzehr von 300 Gramm Fleisch pro Woche, inklusive daraus hergestellter Wurstwaren.
 
@@ -674,7 +674,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020302  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/obst-und-gemuesekonsum)
+[Link zur Website](https://www.gbe.rki.de/obst-und-gemuesekonsum)
 
 Obst und Gemüse sind wichtige Bestandteile einer nachhaltigen und gesunden Ernährung. Sie sind wichtige Quellen für Vitamine, Mineralstoffe, Spurenelemente, Ballaststoffe und sekundäre Pflanzenstoffe. Bei verhältnismäßig geringem Energiegehalt haben sie eine gute sättigende Wirkung und können so helfen, [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu vermeiden. Ein hoher Obst- und Gemüsekonsum hat eine positive Wirkung auf die Gesundheit und kann das Risiko für Herz-Kreislauf-Erkrankungen, verschiedene Krebsarten sowie eine frühzeitige Sterblichkeit verringern ([Aune et al. 2017](https://academic.oup.com/ije/article/46/3/1029/3039477 "Externer Link zur Webseite der IEA: Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality - a systematic review and dose-response meta-analysis of prospective studies (Öffnet neues Fenster)")). Obst und Gemüse sollten täglich in ausreichenden Mengen gegessen werden. Die Deutsche Gesellschaft für Ernährung (DGE) empfiehlt insgesamt mindestens fünf Portionen am Tag. Dies entspricht bei Erwachsenen etwa 550 g Obst und Gemüse.
 
@@ -731,7 +731,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020303  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke)
+[Link zur Website](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke)
 
 Zuckerhaltige Erfrischungsgetränke haben eine geringe Sättigungswirkung, obwohl sie gleichzeitig zu einer hohen Zuckeraufnahme führen. Wird der Flüssigkeitsbedarf häufig über solche Getränke gedeckt, kann dies langfristig [Übergewicht und Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") sowie Erkrankungen wie Typ-2-Diabetes begünstigen ([Hu 2013](https://onlinelibrary.wiley.com/doi/10.1111/obr.12040 "Externer Link zur Publikation: Resolved: there is sufficient scientific evidence that decreasing sugar-sweetened beverage consumption will reduce the prevalence of obesity and obesity-related diseases (Öffnet neues Fenster)")). Der Konsum zuckerhaltiger Erfrischungsgetränke wirkt sich zudem auf die Mundgesundheit aus: Der enthaltene Zucker wird in der Mundhöhle durch Bakterien gespalten, wodurch Säuren entstehen, die den Zahnschmelz angreifen und Karies verursachen. Dieser Effekt wird zusätzlich durch die in zuckerhaltigen Erfrischungsgetränken häufig enthaltenen Säuren begünstigt. Die Weltgesundheitsorganisation (WHO) empfiehlt allen Altersgruppen, nicht mehr als 10 % der Energiezufuhr am Tag über freie Zucker aufzunehmen. Freier Zucker sind alle Mono- und Disaccharide, die Lebensmitteln zugesetzt werden, sowie Zucker, der von Natur aus in Honig, Sirup und Fruchtsäften enthalten ist ([WHO 2015](https://www.who.int/publications/i/item/9789241549028 "Externer Link zur Webseite der WHO: Guideline: sugars intake for adults and children (Öffnet neues Fenster)")).
 
@@ -787,7 +787,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020401  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/riskanter-alkoholkonsum)
+[Link zur Website](https://www.gbe.rki.de/riskanter-alkoholkonsum)
 
 Alkohol ist eine psychoaktive Substanz, die Abhängigkeit erzeugen kann. Alkoholkonsum zählt weltweit zu den wesentlichen Risikofaktoren für Krankheiten, gesundheitliche Beeinträchtigungen und Todesfälle. Schädlicher Alkoholkonsum steht unter anderem im Zusammenhang mit Lebererkrankungen, Krebs, Herz-Kreislauf-Erkrankungen, Unfällen und Gewalt ([WHO 2018](https://www.who.int/publications/i/item/9789241565639 "Externer Link zur Webseite der WHO: Global status report on alcohol and health 2018 (Öffnet neues Fenster)")). Dabei steigen die Risiken mit zunehmenden Konsummengen. Als riskanter Konsum gilt die mittlere Zufuhr pro Tag von mehr als 10 g Reinalkohol bei Frauen und mehr als 20 g bei Männern, dieser Grenzwert wurde für die folgenden Auswertungen herangezogen. Nach aktuellem Kenntnisstand gibt es jedoch kein gesundheitlich unbedenkliches Niveau des Alkoholkonsums, weshalb aktualisierte Empfehlungen lauten, generell keinen Alkohol zu trinken ([WHO 2023](https://www.who.int/europe/de/news/item/28-12-2022-no-level-of-alcohol-consumption-is-safe-for-our-health "Externer Link zur Webseite der WHO: Beim Alkoholkonsum gibt es keine gesundheitlich unbedenkliche Menge (Öffnet neues Fenster)")). Zur Reduktion gesundheitsschädlichen Alkoholkonsums in der Bevölkerung hat die Weltgesundheitsorganisation (WHO) Strategien auf globaler und europäischer Ebene entwickelt. Das Nationale Gesundheitsziel „Alkoholkonsum reduzieren“ orientiert sich teilweise daran.
 
@@ -844,7 +844,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020402  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/rauschtrinken)
+[Link zur Website](https://www.gbe.rki.de/rauschtrinken)
 
 Als Rauschtrinken (englisch: Binge-Drinking) wird ein mindestens einmal im Monat stattfindender Konsum von 60 g oder mehr Reinalkohol zu einer Trinkgelegenheit bezeichnet ([WHO 2018](https://www.who.int/publications/i/item/9789241565639 "Externer Link zur Webseite der WHO: Global status report on alcohol and health 2018 (Öffnet neues Fenster)")). Diese Menge entspricht dem Konsum von sechs Standardgläsern alkoholischer Getränke, die jeweils etwa 10 g Reinalkohol pro Glas enthalten. Rauschtrinken ist ein gesundheitlich besonders riskantes Trinkmuster, das akute Schäden wie Alkoholvergiftungen, Unfälle und Verletzungen verursachen kann. Bei häufigem Rauschtrinken können Alkoholabhängigkeit und vielfältige organische Schäden die Folge sein ([DHS 2015](http://www.dhs.de/fileadmin/user_upload/pdf/Factsheets/Binge_drinking.pdf "Externer Link zur Webseite der DHS:  Binge-Drinking und Alkoholvergiftungen (Öffnet neues Fenster)")). Hinzu kommen sozioökonomische Folgen für die Betroffenen sowie die Schäden für andere Personen und die Gesellschaft insgesamt. Zur Reduktion gesundheitsschädlichen Alkoholkonsums in der Bevölkerung hat die Weltgesundheitsorganisation (WHO) Strategien auf globaler und europäischer Ebene entwickelt. Das Nationale Gesundheitsziel „Alkoholkonsum reduzieren“ orientiert sich teilweise daran.
 
@@ -900,7 +900,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020501  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/rauchen)
+[Link zur Website](https://www.gbe.rki.de/rauchen)
 
 Das Rauchen von Tabakprodukten ist in Deutschland das bedeutendste Einzelrisiko für die Gesundheit und führende Ursache vorzeitiger Sterblichkeit. Das im Tabak enthaltene Nikotin macht abhängig und Erkrankungen, die bei Rauchenden vermehrt auftreten, sind zum Beispiel Herz-Kreislauf-, Atemwegs- und Krebserkrankungen. An den Folgen des Rauchens sterben in Deutschland jedes Jahr etwa 127.000 Menschen. Für die Versorgung von Krankheiten und Gesundheitsproblemen sowie möglicher Krankheitsfolgen, die auf das Rauchen zurückzuführen sind, entstehen hohe Kosten ([Effertz 2018](https://doi.org/10.5414/ATX02359 "Externer Link zur Publikation:  Die Kosten des Rauchens in Deutschland im Jahr 2018 – aktuelle Situation und langfristige Perspektive (Öffnet neues Fenster)")).
 
@@ -958,7 +958,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1020502  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/passivrauchbelastung)
+[Link zur Website](https://www.gbe.rki.de/passivrauchbelastung)
 
 [Tabakrauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") hat nicht nur negative gesundheitliche Folgen für Rauchende, sondern auch für Personen, die Passivrauch ausgesetzt sind, wenn auch in einem geringeren Ausmaß. Auch von Tabakrauch auf Oberflächen (kalter Rauch) werden Schadstoffe in die Raumluft abgegeben. Kinder sind gegenüber Passivrauch besonders gefährdet. In der Schwangerschaft gefährdet Passivrauch die gesunde Entwicklung des Embryos. Die Krankheitskosten der Passivrauchbelastung werden auf 1,3 Milliarden Euro pro Jahr geschätzt ([Effertz 2018](https://doi.org/10.5414/ATX02359 "Externer Link zur Publikation:  Die Kosten des Rauchens in Deutschland im Jahr 2018 – aktuelle Situation und langfristige Perspektive (Öffnet neues Fenster)")). Um heutige und künftige Generationen vor den gesundheitlichen, gesellschaftlichen, ökologischen und wirtschaftlichen Folgen des Tabakkonsums und des Passivrauchens zu schützen, wurde unter Leitung der Weltgesundheitsorganisation (WHO) das Rahmenübereinkommen zur Eindämmung des Tabakgebrauchs (FCTC) ausgehandelt. Deutschland hat den Vertrag 2004 ratifiziert. Seitdem sind verschiedene gesetzliche Maßnahmen zur Eindämmung des Tabakkonsums und zum Nichtraucherschutz ergriffen worden. Begleitet wurden diese Maßnahmen durch das nationale Gesundheitsziel „Tabakkonsum reduzieren“ ([BMG 2015](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/G/Gesundheitsziele/Broschuere_Nationales_Gesundheitsziel_-_Tabakkonsum_reduzieren.pdf "Externer Link zur Webseite des BMG: Nationales Gesundheitsziel - Tabakkonsum reduzieren (Öffnet neues Fenster)")).
 
@@ -1014,7 +1014,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1030101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/diabetes-risiko)
+[Link zur Website](https://www.gbe.rki.de/diabetes-risiko)
 
 Über 90 % der Personen mit einem Diabetes mellitus (Zuckerkrankheit) in Deutschland sind von einem Typ-2-Diabetes betroffen ([Reitzle et al. 2023](https://doi.org/10.1055/a-1791-0918 "Externer Link zur Publikation: Algorithmus zur Unterscheidung von Diabetes mellitus Typ 1 und Typ 2 bei der Analyse von Routinedaten (Öffnet neues Fenster)")). Zu den Risikofaktoren für Typ-2-Diabetes zählen neben dem Alter und einer familiären Krankheitshäufung auch beeinflussbare Faktoren wie beispielsweise [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") und körperliche Inaktivität. Das individuelle Risiko, in den nächsten zehn Jahren an einem Typ-2-Diabetes zu erkranken (absolutes 10-Jahres-Diabetesrisiko in Prozent), kann mit dem Deutschen Diabetes-Risiko-Test bei Personen ohne bisherige Diabetesdiagnose bestimmt werden ([Schiborn et al. 2022](https://doi.org/10.3238/arztebl.m2022.0268 "Externer Link zur Publikation: German Diabetes Risk Score for the Determination of the Individual Type 2 Diabetes Risk - 10-year prediction and external validations (Öffnet neues Fenster)")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren des Typ-2-Diabetes zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
 
@@ -1083,7 +1083,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 1030102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/hke-risiko)
+[Link zur Website](https://www.gbe.rki.de/hke-risiko)
 
 Herz-Kreislauf-Erkrankungen sind verschiedene Erkrankungen des Herzens und der Blutgefäße. Bei gestörter Durchblutung des Herzens oder des Gehirns kann ein Herzinfarkt beziehungsweise ein Schlaganfall auftreten. Zahlreiche Faktoren beeinflussen das Risiko für Herz-Kreislauf-Erkrankungen, darunter das Alter oder die Ernährung. Das individuelle Risiko, in den nächsten 10 Jahren erstmals an einem Herzinfarkt oder Schlaganfall zu erkranken (absolutes 10-Jahres Herz-Kreislauf-Erkrankungs-Risiko in Prozent), kann mit dem Herz-Kreislauf-Erkrankungs-Risiko-Test bei Personen ohne bekannten Herzinfarkt oder Schlaganfall bestimmt werden ([Schiborn et al. 2021](https://doi.org/10.1038/s41598-021-99103-4 "Externer Link zur Publikation: A newly developed and externally validated non-clinical score accurately predicts 10-year cardiovascular disease risk in the general adult population (Öffnet neues Fenster)"), [DIfE 2024](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test (Öffnet neues Fenster)")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren für Herz-Kreislauf-Erkrankungen zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
 
@@ -1150,7 +1150,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2010101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit)
+[Link zur Website](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit)
 
 Die selbsteingeschätzte allgemeine Gesundheit ist die globale Bewertung des allgemeinen Gesundheitszustands einer Person auf der Grundlage der subjektiven Wahrnehmung, einschließlich der körperlichen, sozialen und emotionalen Funktionsfähigkeit und krankheitsrelevanter Aspekte und Symptome ([Cox et al. 2009](https://doi.org/10.1007/s00038-009-7104-y "Externer Link zur Publikation: The reliability of the Minimum European Health Module (Öffnet neues Fenster)")). Eine negativere Selbsteinschätzung der allgemeinen Gesundheit ist mit einem häufigeren Vorliegen gesundheitlicher Beschwerden und chronischer Krankheiten verbunden und gilt als wichtiger Prädiktor für Funktionseinschränkungen, kognitive Beeinträchtigungen, Inanspruchnahme von Gesundheitsleistungen und Sterblichkeit. Die selbsteingeschätzte allgemeine Gesundheit ist ein fester Bestandteil des Minimum European Health Module (MEHM) ([Cox et al. 2009](https://doi.org/10.1007/s00038-009-7104-y "Externer Link zur Publikation: The reliability of the Minimum European Health Module (Öffnet neues Fenster)")). Im Kontext der öffentlichen Gesundheit wird sie von der Europäischen Kommission zum Monitoring des Gesundheitszustands einer Bevölkerung und zur Verfolgung dessen Veränderungen in den europäischen Ländern empfohlen ([European Commission 2015](https://ec.europa.eu/social/BlobServlet?docId=17033&langId=en "Externer Link zum Bericht: Towards a Joint Assessment Framework in the Area of Health (Öffnet neues Fenster)")).
 
@@ -1253,7 +1253,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2010102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit)
+[Link zur Website](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit)
 
 Die selbsteingeschätzte psychische Gesundheit hängt zuverlässig mit anderen Gesundheitsindikatoren zusammen, wie der [selbsteingeschätzten allgemeinen Gesundheit](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/SubjektiveGesundheit/SelbsteingeschaetzteGesundheit/SelbsteingeschaetzteAllgemeineGesundheit/SelbsteingeschaetzteAllgemeineGesundheit_node.html "Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)"), der Inanspruchnahme von Leistungen der Gesundheitsversorgung, [körperlichen Einschränkungen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/Funktionseinschraenkungen/KoerperlicheEinschraenkungen/koerperlicheEinschraenkungen_node.html "Körperliche Einschränkungen (ab 18 Jahre)") oder [Symptome psychischer Störungen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/PsychischeStoerungen/PsychischeStoerungenInsgesamt/PsychischeStoerungenAdministrativePraevalenz/psychischeStoerungenAdminPraevalenz_node.html "Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)") ([Ahmad et al. 2014](https://doi.org/10.1186/1472-6963-14-398 "Externer Link zur Publikation: Single item measures of self-rated mental health: a scoping review (Öffnet neues Fenster)")). Daher kann die selbsteingeschätzte psychische Gesundheit zwar keine spezifischen Indikatoren zu Einschränkungen oder Erkrankungen ersetzen, ist aber sehr gut geeignet, um die allgemeine subjektive Wahrnehmung zu bewerten und liefert Hinweise für den Bedarf an Unterstützungs- und Versorgungsangeboten. Sie erfasst mehr als die reine Abwesenheit von psychischen Störungen, sondern einen wichtigen positiven Aspekt von psychischer Gesundheit ([WHO 1946](https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf "Externer Link zur Webseite der WHO: CONSTITUTION OF THE WORLD HEALTH ORGANIZATION (Öffnet neues Fenster)")). Die positive psychische Gesundheit ist von grundlegender Bedeutung für unsere kollektive und individuelle Fähigkeit zu denken, zu fühlen, miteinander zu interagieren, mit Herausforderungen umzugehen, unseren Lebensunterhalt zu verdienen sowie das Leben sinnvoll zu gestalten und zu genießen.
 
@@ -1313,7 +1313,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/khk-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/khk-praevalenz)
 
 Die koronare oder auch ischämische Herzkrankheit ist eine chronische Erkrankung des Herzens, die durch eine zunehmende Verengung von meist arteriosklerotisch veränderten Herzkranzgefäßen zur Mangeldurchblutung des Herzmuskelgewebes führt. Zur koronaren Herzkrankheit zählt auch die sogenannte Angina pectoris (Brustenge) und auch der Herzinfarkt. Wesentliche Risikofaktoren für die koronare Herzkrankheit sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab 18 Jahre)"). Das Risiko einer koronaren Herzerkrankung kann durch Verhaltens- und Verhältnisänderungen sowie durch Therapien vorbestehender Erkrankungen entscheidend beeinflusst werden. Die koronare Herzerkrankung ist die führende Ursache für Morbidität und [Mortalität](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesSterblichkeit/diabetesSterblichkeit_node.html "Diabetes mellitus: Sterblichkeit") in Deutschland und verursacht die höchsten Krankheitskosten ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study (Öffnet neues Fenster)"), [Destatis 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankheitskosten/_inhalt.html "Externer Link zur Webseite von Destatis zum Thema Krankheitskosten (Öffnet neues Fenster)")).
 
@@ -1402,7 +1402,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/khk-sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/khk-sterblichkeit)
 
 Die koronare Herzkrankheit (KHK) ist weltweit die häufigste Todesursache. Im internationalen Vergleich liegt die Sterblichkeit an KHK in Deutschland über dem europäischen Durchschnitt ([OECD 2022](https://doi.org/10.1787/507433b0-en "Externer Link zur Publikation: Health at a Glance 2022 - OECD Indicators (Öffnet neues Fenster)"), [Eurostat 2024](https://ec.europa.eu/eurostat/databrowser/view/hlth_cd_asdr2/default/table?lang=en "Externer Link zur Webseite von Eurostat: Causes of death - standardised death rate by NUTS 2 region of residence (Öffnet neues Fenster)")). Die KHK ist eine chronische Erkrankung, bei der es zu einer Verengung der Herzkranzgefäße kommt ([Koronare Herzkrankheit: Prävalenz](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungPraevalenz/koronareHerzerkrankungPraevalenz_node.html "Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)")). Die Folge ist eine Minderdurchblutung des Herzens. Der Herzinfarkt stellt eine lebensbedrohliche Akutkomplikation der KHK dar. Durch die Minderdurchblutung des Herzmuskels kann es hierbei zu dauerhaften Schäden am Herzmuskelgewebe kommen. Als weitere Krankheitsfolgen tragen vor allem Herzinsuffizienz (Herzschwäche) und Herzrhythmusstörungen zur hohen Sterblichkeit der KHK bei. In den letzten Jahrzehnten ist die KHK-Sterblichkeit in den meisten Industrieländern deutlich gesunken. Die Gründe für diese Trendentwicklung werden auf einen Rückgang in der Häufigkeit wichtiger Risikofaktoren und auf Verbesserungen in der medizinischen Versorgung zurückgeführt ([Ahmadi et al. 2022](https://doi.org/10.1186/s12889-021-12421-0 "Externer Link zur Publikation: The impact of clinical and population strategies on coronary heart disease mortality: an assessment of Rose’s big idea (Öffnet neues Fenster)")).
 
@@ -1444,7 +1444,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 Indikator_ID: 2020103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/schlaganfall-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/schlaganfall-praevalenz)
 
 Bei einem Schlaganfall handelt es sich um eine plötzlich auftretende Schädigung von Hirnarealen, die infolge eines Gefäßverschlusses (ischämischer Schlaganfall) oder durch eine Hirnblutung (hämorrhagischer Schlaganfall) entsteht. Das Risiko von Gefäßverschlüssen ist insbesondere bei arteriosklerotisch geschädigten Hals- oder Hirnschlagadern erhöht. Hirnblutungen treten hingegen häufig bei Hirnarterien auf, welche durch einen langjährigen Bluthochdruck geschädigt wurden. In Folge eines Schlaganfalls wird die Funktion des Gehirns beeinträchtigt. Schlagartig treten vor allem Lähmungen (meist in einer Körperhälfte), Sprach-, Seh- und Gleichgewichtsstörungen auf. Wie bei der koronaren Herzkrankheit sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab 18 Jahre)") zentrale Risikofaktoren für einen Schlaganfall. Schlaganfälle sind eine Hauptursache einer bleibenden Behinderung im Erwachsenenalter und zählen zu den häufigsten [Todesursachen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallSterblichkeit/schlaganfallSterblichkeit_node.html "Schlaganfall: Sterblichkeit") ([Destatis 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/_inhalt.html "Externer Link zur Webseite von Destatis: Gesundheit: Statistik zu Todesursachen (Öffnet neues Fenster)")).
 
@@ -1531,7 +1531,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020104  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/schlaganfall-sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/schlaganfall-sterblichkeit)
 
 Der Schlaganfall zählt weltweit zu den häufigsten Todesursachen. Es kommt bei einem Schlaganfall zunächst zu einer plötzlich auftretenden Funktionsstörung des Gehirns ([Schlaganfall: Prävalenz](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallPraevalenz/schlaganfallPraevalenz_node.html "Schlaganfall: Prävalenz (ab 18 Jahre)")). Häufigste Ursache ist die Durchblutungsstörung eines gehirnversorgenden Gefäßes, das durch ein Blutgerinnsel verschlossen wird (ischämischer Schlaganfall). Seltener kann ein Schlaganfall durch eine Hirnblutung nach dem Zerreißen von Hirngefäßen verursacht werden (hämorrhagischer Schlaganfall). In beiden Fällen sterben infolge Nervenzellen im betroffenen Areal des Gehirns ab. Der Schaden vergrößert sich in Abhängigkeit von der Zeit, wird irreversibel und kann unter anderem zu dauerhaften Lähmungen sowie zu Sensibilitäts- oder Sprachstörungen bis hin zur Bewusstlosigkeit führen. Die Schlaganfall-Sterblichkeit geht seit vielen Jahren zurück, was mit dem Rückgang in der Häufigkeit wichtiger Risikofaktoren sowie mit Verbesserungen in der medizinischen Versorgung des Schlaganfalls in Verbindung gebracht wird ([Rücker et al. 2018](https://doi.org/10.1161/STROKEAHA.118.023193 "Externer Link zur Publikation: Decline in Regional Trends in Mortality of Stroke Subtypes in Germany From 1998 to 2015 (Öffnet neues Fenster)"), [Prendes et al. 2024](https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.042022 "Externer Link zur Publikation: Burden of Stroke in Europe: An Analysis of the Global Burden of Disease Study Findings From 2010 to 2019 (Öffnet neues Fenster)")).
 
@@ -1573,7 +1573,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 Indikator_ID: 2020201  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/t1d-inzidenz-unter-18)
+[Link zur Website](https://www.gbe.rki.de/t1d-inzidenz-unter-18)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Bei Typ-1-Diabetes handelt es sich um eine Autoimmunerkrankung, bei der das Immunsystem aufgrund einer fehlgeleiteten Reaktion insulinproduzierende Zellen in der Bauchspeicheldrüse zerstört, was zu einem absoluten Insulinmangel führt. Die Krankheitsentstehung wird vermutlich durch genetische und Umweltfaktoren bestimmt. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen ([DiMeglio et al. 2018](https://doi.org/10.1016/S0140-6736(18)31320-5 "Externer Link zur Webseite von ScienceDirect: Type 1 diabetes (Öffnet neues Fenster)")). In den letzten Jahrzehnten war weltweit ein Anstieg der Rate an Kindern und Jugendlichen, die einen Typ-1-Diabetes neu entwickeln, um 3 % bis 4 % pro Jahr zu beobachten ([Tuomilehto et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32208564/ "Externer Link zum Artikel: Update on Worldwide Trends in Occurrence of Childhood Type 1 Diabetes in 2020 (Öffnet neues Fenster)")).
 
@@ -1613,7 +1613,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 
 Indikator_ID: 2020202  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/t2d-inzidenz-unter-18)
+[Link zur Website](https://www.gbe.rki.de/t2d-inzidenz-unter-18)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\" (Öffnet neues Fenster)")).
 
@@ -1653,7 +1653,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 
 Indikator_ID: 2020203  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/t1d-praevalenz-unter-18)
+[Link zur Website](https://www.gbe.rki.de/t1d-praevalenz-unter-18)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Bei Typ-1-Diabetes handelt es sich um eine Autoimmunerkrankung, bei der das Immunsystem aufgrund einer fehlgeleiteten Reaktion insulinproduzierende Zellen in der Bauchspeicheldrüse zerstört, was zu einem absoluten Insulinmangel führt. Die Krankheitsentstehung wird vermutlich durch genetische und Umweltfaktoren bestimmt. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen ([DiMeglio et al. 2018](https://doi.org/10.1016/S0140-6736(18)31320-5 "Externer Link zur Webseite von ScienceDirect: Type 1 diabetes (Öffnet neues Fenster)")). Mit weltweit etwa 1,5 Millionen Betroffenen unter 20 Jahren ist Typ-1-Diabetes eine der häufigsten chronischen Stoffwechselerkrankungen im Kindes- und Jugendalter ([Gregory et al. 2021](https://doi.org/10.1016/S2213-8587(22)00218-2 "Externer Link zur Publikation: Global incidence, prevalence, and mortality of type 1 diabetes in 2021 with projection to 2040: a modelling study (Öffnet neues Fenster)")).
 
@@ -1693,7 +1693,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 
 Indikator_ID: 2020204  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/t2d-praevalenz-unter-18)
+[Link zur Website](https://www.gbe.rki.de/t2d-praevalenz-unter-18)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\" (Öffnet neues Fenster)")).
 
@@ -1733,7 +1733,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 
 Indikator_ID: 2020206  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/diabetes-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/diabetes-praevalenz)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Über 90 % der Personen mit Diabetes sind von einem Typ-2-Diabetes betroffen, der meist mit einem ungünstigen Lebensstil in Zusammenhang steht und sich vorwiegend im mittleren oder höheren Erwachsenenalter manifestiert. Der Typ-1-Diabetes stellt eine Autoimmunerkrankung dar und entwickelt sich meist bereits im Kindes- beziehungsweise Jugendalter. Der [Gestationsdiabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/GestationsdiabetesPraevalenz/gestationsdiabetesPraevalenz_node.html "Gestationsdiabetes mellitus: Prävalenz") tritt erstmals in der Schwangerschaft auf und bildet sich danach in der Regel wieder zurück ([Pleus et al. 2023](https://doi.org/10.1055/a-2075-9943 "Externer Link zur Publikation \"Definition, Klassifikation, Diagnostik und Differenzialdiagnostik des Diabetes mellitus: Update 2023\" (Öffnet neues Fenster)")), ist jedoch mit weiteren Risiken für Mutter und Kind verbunden. Die gesundheitspolitische Relevanz des Diabetes ergibt sich aus seiner weltweit zunehmenden Verbreitung und den gesundheitlichen Folgen. Insbesondere ein unerkannter oder unzureichend behandelter Diabetes erhöht das Risiko für Begleit- und Folgeerkrankungen, vermindert die Lebensqualität und verringert die Lebenserwartung ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\" (Öffnet neues Fenster)")).
 
@@ -1821,7 +1821,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020207  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/diabetes-sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/diabetes-sterblichkeit)
 
 Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind, und gehört zu den häufigsten Todesursachen weltweit, insbesondere in Ländern mit hohem und niedrigem Einkommen ([WHO 2020](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death "Externer Link zur Webseite der WHO: The top 10 causes of death (Öffnet neues Fenster)")). Ein Versterben an Diabetes tritt vor allem aufgrund von diabetesbedingten Langzeitkomplikationen (z. B. Nieren- oder neurologische Komplikationen) oder Akutkomplikationen (z. B. schwere Hypoglykämien) auf. Die Sterberaten stiegen weltweit von 1990 bis Mitte der 2000er-Jahre kontinuierlich an. Seitdem ist in Entwicklungsländern ein Plateau, in entwickelten Ländern hingegen in der Tendenz ein Rückgang zu erkennen ([Balooch Hasankhani et al. 2023](https://doi.org/10.1038/s41598-023-49249-0 "Externer Link zur Publikation: Global trend analysis of diabetes mellitus incidence, mortality, and mortality-to-incidence ratio from 1990 to 2019 (Öffnet neues Fenster)")). Eine verringerte Sterblichkeit an Diabetes könnte auf Verbesserungen in der Prävention von diabetesbedingten Komplikationen zurückzuführen sein.
 
@@ -1863,7 +1863,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 Indikator_ID: 2020208  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/gestationsdiabetes)
+[Link zur Website](https://www.gbe.rki.de/gestationsdiabetes)
 
 Beim Schwangerschaftsdiabetes oder Gestationsdiabetes mellitus (GDM) handelt es sich um eine erstmals in der Schwangerschaft diagnostizierte Störung des Blutzuckerstoffwechsels. Diese bildet sich bei den meisten Frauen nach der Geburt zurück, erhöht aber das Risiko für Geburtskomplikationen bei Mutter und Kind ([Metzger et al. 2008](https://doi.org/10.1056/NEJMoa0707943 "Externer Link zur Publikation: Hyperglycemia and Adverse Pregnancy Outcomes (Öffnet neues Fenster)")) sowie das Risiko der Mutter, später an einem Typ-2-Diabetes zu erkranken ([Rayanagoudar et al. 2016](https://doi.org/10.1007/s00125-016-3927-2 "Externer Link zur Publikation: Quantification of the type 2 diabetes risk in women with gestational diabetes: a systematic review and meta-analysis of 95,750 women (Öffnet neues Fenster)")). Wichtige potenziell vermeidbare Risikofaktoren für das Auftreten eines Gestationsdiabetes sind Adipositas und eine starke Gewichtszunahme in der Schwangerschaft sowie Bewegungsmangel. Diese Risikofaktoren als auch der Gestationsdiabetes selbst kommen in sozioökonomisch benachteiligten Gruppen häufiger vor.
 
@@ -1900,7 +1900,7 @@ Der Datensatz enthält ausschließlich Informationen zu Klinikgeburten, da die D
 
 Indikator_ID: 2020301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/brustkrebs-inzidenz)
+[Link zur Website](https://www.gbe.rki.de/brustkrebs-inzidenz)
 
 Brustkrebs ist die mit Abstand häufigste Krebserkrankung der Frau. Auf Basis der aktuellen Inzidenzraten erkrankt etwa eine von acht Frauen im Laufe ihres Lebens an Brustkrebs. Brustkrebs bei Männern ist dagegen sehr selten. Risikofaktoren für Brustkrebs sind unter anderem höheres Alter, dichtes oder verändertes Brustgewebe, bestimmte Vorerkrankungen und Vortherapien, erbliche Veranlagungen, hormonelle Risikofaktoren sowie gewisse Lebensgewohnheiten wie [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Alkoholkonsum und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"). Das gesetzliche Krebsfrüherkennungsprogramm bietet Frauen verschiedene Untersuchungen an. Dazu gehört auch das Mammographie-Screening, an dem Frauen im Alter zwischen 50 und 75 Jahren alle zwei Jahre teilnehmen können ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link zur Webseite des Zentrums für Krebsregisterdaten (Öffnet neues Fenster)").
 
@@ -1937,7 +1937,7 @@ Für Bundesländer, in denen für bestimmte Zeiträume noch keine oder nur unvol
 
 Indikator_ID: 2020302  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/brustkrebs-sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/brustkrebs-sterblichkeit)
 
 Brustkrebs ist die häufigste Todesursache unter den Krebserkrankungen bei Frauen. Dennoch haben die meisten Patientinnen eine gute Prognose, da die Tumore häufig in frühen Stadien erkannt werden. Die Überlebensaussichten sind für Frauen mit Brustkrebs in einem frühen Stadium (Stadium I) ähnlich wie für in-situ Karzinome nicht eingeschränkt. Im fortgeschrittenen Stadium (Stadium III und IV) sinken die Überlebensaussichten, liegen aber immer noch höher, als bei den meisten Krebsarten in vergleichbaren Stadien ([RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016 (Öffnet neues Fenster)")). Durch Verbesserungen in der Versorgung und Therapie von Brustkrebs ist die Sterblichkeit über die letzten Jahrzehnte kontinuierlich gesunken ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link zur Webseite des Zentrums für Krebsregisterdaten (Öffnet neues Fenster)"). 
 
@@ -1980,7 +1980,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 Indikator_ID: 2020303  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/darmkrebs-inzidenz)
+[Link zur Website](https://www.gbe.rki.de/darmkrebs-inzidenz)
 
 Etwa jede neunte Krebserkrankung in Deutschland betriﬀt den Dickdarm (Kolon) beziehungsweise den Mastdarm (Rektum). Die Diagnose Darmkrebs wird im Laufe des Lebens bei einer von 19 Frauen und einem von 15 Männern gestellt. Etwa zwei Drittel der Erkrankung werden im Dickdarm entdeckt. Die wichtigsten Risikofaktoren für Darmkrebs sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel, eine ballaststoffarme Ernährung sowie Alkoholkonsum. Im Rahmen des gesetzlichen Früherkennungsprogramms kann im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre ein immunologischer Test auf verstecktes Blut im Stuhl in Anspruch genommen werden. Alternativ sieht das Krebsfrüherkennungsprogramm für Männer ab 50 Jahren und Frauen ab 55 Jahren eine [Darmspiegelung](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/GesundheitsfoerderungundPraevention/VorsorgeUndFrueherkennung/Darmkrebsfrueherkennung/darmkrebsfrueherkennung_node.html "Darmkrebsfrüherkennung (ab 50/55 Jahre)") (Koloskopie) vor. Bei einer Darmspiegelung können Ärztinnen und Ärzte Krebsvorstufen entfernen und so Darmkrebs vorbeugen ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)"), [RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016 (Öffnet neues Fenster)")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link zur Webseite des Zentrums für Krebsregisterdaten (Öffnet neues Fenster)"). 
 
@@ -2017,7 +2017,7 @@ Für Bundesländer, in denen für bestimmte Zeiträume noch keine oder nur unvol
 
 Indikator_ID: 2020304  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/darmkrebs-sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/darmkrebs-sterblichkeit)
 
 Darmkrebs – gemeint ist hier Krebs im Dick- und Mastdarm – ist die dritthäufigste Todesursache unter den Krebserkrankungen. Die altersstandardisierten Sterberaten gehen bei beiden Geschlechtern kontinuierlich zurück. Die Überlebensraten sinken mit zunehmendem Alter und in höheren Tumorstadien, insbesondere nach Fernmetastasierung (Stadium IV) ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)")). Im Rahmen des gesetzlichen Früherkennungsprogramms kann im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahre alle zwei Jahre ein immunologischer Test auf verstecktes Blut im Stuhl in Anspruch genommen werden. Alternativ sieht das Krebsfrüherkennungsprogramm für Männer ab 50 Jahren und Frauen ab 55 Jahren (Frauen) eine [Darmspiegelung](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/GesundheitsfoerderungundPraevention/VorsorgeUndFrueherkennung/Darmkrebsfrueherkennung/darmkrebsfrueherkennung_node.html "Darmkrebsfrüherkennung (ab 50/55 Jahre)") (Koloskopie) vor ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link zur Webseite des Zentrums für Krebsregisterdaten (Öffnet neues Fenster)").
 
@@ -2060,7 +2060,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 Indikator_ID: 2020401  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/copd-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/copd-praevalenz)
 
 Die chronisch obstruktive Lungenerkrankung (COPD, engl. „chronic obstructive pulmonary disease“) geht mit einer hohen Krankheitslast einher und zählt sowohl in Deutschland als auch weltweit zu den führenden Todesursachen ([Porst et al. 2023](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study (Öffnet neues Fenster)")). Die Erkrankung ist durch chronische Entzündung und oft fortschreitende Verengung der Atemwege sowie Zerstörung des Lungengewebes (Lungenparenchyms) gekennzeichnet. Charakteristisch ist das Bestehen von chronischem Husten und Auswurf (chronische Bronchitis) sowie von dauerhaften Erweiterungen der Lungenbläschen (Lungenemphysem), die oft in Kombination miteinander auftreten. COPD entsteht auf der Basis eines komplexen Zusammenspiels zwischen genetischen Faktoren und Umweltfaktoren. Tabakrauchen – sowohl aktiv als auch passiv – stellt den bedeutendsten Risikofaktor dar. Daneben können auch Störungen der Lungenentwicklung, wiederholte Atemwegsinfektionen in der frühen Kindheit oder Belastungen durch Luftschadstoffe zur Entwicklung einer COPD beitragen ([BÄK et al. o.J.](https://doi.org/10.6101/AZQ/000477 "Externer Link zur Webseite: Nationale Versorgungsleitlinie  - COPD (Öffnet neues Fenster)")).
 
@@ -2126,7 +2126,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020403  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/asthma-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/asthma-praevalenz)
 
 Asthma bronchiale ist eine chronisch-entzündliche Erkrankung der Atemwege, die durch eine reversible Verengung der Bronchien gekennzeichnet ist. Typische Beschwerden, die in ihrer Intensität und Häufigkeit variieren, sind anfallsartige Kurzatmigkeit oder Atemnot, ein Engegefühl in der Brust, hörbare Atemgeräusche (Giemen, Pfeifen, Brummen) vor allem beim Ausatmen und ein starker Reizhusten. Im Krankheitsverlauf kann es zu akuten Verschlechterungsepisoden (Exazerbationen) kommen, die zu einer notfallmäßigen Krankenhausbehandlung führen können. Auslöser für Asthmabeschwerden können in der Luft enthaltene Stoffe wie bestimmte Allergene oder Tabakrauch und andere Schadstoffe sein. Zu weiteren auslösenden Faktoren zählen körperliche Aktivität oder virale Infektionen der Atemwege ([Lommatzsch et al. 2023](https://register.awmf.org/assets/guidelines/020-009l_S2k_Fachaerztliche-Diagnostik-Therapie-von-Asthma_2023-03.pdf "Externer Link zur Webseite von AWMF: S2k-Leitlinie zur fachärztlichen Diagnostik und Therapie von Asthma 2023 (Öffnet neues Fenster)")). Asthma zählt zu den häufigsten nichtübertragbaren Erkrankungen weltweit und verursacht erhebliche individuelle Einschränkungen sowie Belastungen des Gesundheitssystems ([WHO 2019](https://www.who.int/news-room/fact-sheets/detail/asthma "Externer Link zur Webseite der WHO: Asthma (Öffnet neues Fenster)")).
 
@@ -2210,7 +2210,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2020501  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/arthrose-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/arthrose-praevalenz)
 
 Arthrose ist weltweit die häufigste Gelenkerkrankung und der Anteil der Betroffenen wird weiter zunehmen ([Hunter und Zeinstra 2019](https://doi.org/10.1016/S0140-6736(19)30417-9 "Externer Link zur Publikation: Osteoarthritis (Öffnet neues Fenster)")). Arthrose tritt überwiegend bei Personen in der zweiten Lebenshälfte und mit zunehmendem Lebensalter vermehrt auf. Frauen sind häufiger betroffen als Männer. Arthrose verursacht Gelenkschmerzen und Einschränkungen der Gelenkbeweglichkeit, die im Verlauf der Erkrankung zunehmen und wiederum mit Einschränkungen der körperlichen Funktionsfähigkeit einhergehen, die zu einem Verlust an Lebensqualität ([Salaffi et al. 2005](https://doi.org/10.1007/BF03324607 "Externer Link zur Publikation: Health-related quality of life in older adults with symptomatic hip and knee osteoarthritis: a comparison with matched healthy controls (Öffnet neues Fenster)")), Einschränkungen in Autonomie und [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/Funktionseinschraenkungen/EinschraenkungenBeiInstrumentAktivitaeten/einschraenkungenBeiInstrumentAktivitaeten_node.html "Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)") führen. Arthrose ist nicht heilbar, kann aber durch körperliche Aktivität, Reduktion von Übergewicht, Physiotherapie und durch Medikation in ihren Auswirkungen begrenzt werden. Arthrose führt zu erheblichen direkten und indirekten Kosten für das Gesundheitssystem, besonders durch Operation und Gelenkersatz von häufig betroffenen Gelenken, wie Knie und Hüfte, sowie durch krankheitsbedingte Arbeitsausfälle.
 
@@ -2266,7 +2266,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2030101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/unfallverletzungen)
+[Link zur Website](https://www.gbe.rki.de/unfallverletzungen)
 
 Die Vermeidung von Unfällen hat große Bedeutung, sowohl für die Betroffenen und ihre Familien als auch gesamtgesellschaftlich. Nach Schätzungen der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin verletzen sich jährlich etwa 9 Millionen Menschen bei Unfällen (letzte Schätzung von 2015). Im Jahr 2022 wurden in Deutschland mehr als 32.000 Menschen bei Unfällen getötet (ICD-10: V01 – X59) ([Destatis 2024](https://www.gbe-bund.de/ "Externer Link zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle durch Unfälle nach äußeren Ursachen und Unfallkategorien (ab 1998): (Öffnet neues Fenster)")). Das Unfallgeschehen in Deutschland lässt sich auf der Basis amtlicher Statistiken nur unvollständig abbilden, eine gesetzliche Grundlage für die Erfassung gibt es nur für einige Bereiche, zum Beispiel Arbeits- und Verkehrsunfälle. Im Europäischen Gesundheitssurvey (European Health Interview Survey, EHIS) wird alle fünf Jahre erfragt, ob die Teilnehmenden in den letzten 12 Monaten Unfallverletzungen im Verkehr, zu Hause und in der Freizeit erlitten haben. Damit ergibt sich ein Überblick über die Situation in Deutschland. Hinweise auf gefährdete Personengruppen und Orte können abgeleitet werden, denn: Ein Unfall ist kein Zufall.
 
@@ -2328,7 +2328,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2030102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/stuerze)
+[Link zur Website](https://www.gbe.rki.de/stuerze)
 
 Stürze spielen im Alter eine bedeutsame Rolle, da sie zu schwerwiegenden Verletzungen führen können; sie ereignen sich auf Basis des Zusammenwirkens von biologischen, verhaltensbezogenen, umweltbezogenen und sozioökonomische Risikofaktoren ([WHO 2007](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHo-Global-report-on-falls-prevention-in-older-age.pdf "Externer Link zur Webseite der WHO: WHo Global report on falls Prevention in older Age (Öffnet neues Fenster)")). Alter, Multimorbidität, Polypharmazie (die gleichzeitige Einnahme von fünf oder mehr Medikamenten), Mobilitäts- und Seheinschränkungen sind dabei bekannte Risikofaktoren für Stürze ([Rubenstein 2006](https://doi.org/10.1093/ageing/afl084 "Externer Link zur Publikation: Falls in older people: epidemiology, risk factors and strategies for prevention (Öffnet neues Fenster)")). Sturzereignisse und ihre Folgen können die Lebensqualität beeinträchtigen und ein höheres Morbiditäts- und Mortalitätsrisiko sowie eine Belastung für die Gesundheits- und Sozialsysteme darstellen. Stürze können zu langfristigen körperlichen Behinderungen, schwerer Abhängigkeit und Krankenhausaufenthalten führen, sowie zu Sturzangst, die wiederum zur Beschränkung körperlicher Aktivität und zu verringerten sozialen Kontakten führen kann.
 
@@ -2389,7 +2389,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2040101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz)
 
 Psychische Störungen sind definiert als Veränderungen von Wahrnehmung, Denken, Fühlen und Verhalten, die Leid und Funktionseinschränkungen in wichtigen Lebensbereichen verursachen. Weltweit zählen sie zu den Erkrankungen mit der größten Krankheitslast ([IHME 2024](https://www.healthdata.org/research-analysis/diseases-injuries-risks/factsheets/2021-mental-disorders-level-2-disease "Externer Link zum Bericht: Mental disorders - Level 2 cause (Öffnet neues Fenster)")). Diagnosesysteme unterscheiden verschiedene Klassen psychischer Störungen, beispielsweise Depression, Angststörungen, Schizophrenie, posttraumatische Belastungsstörung, Störungen durch Alkohol oder illegale Drogen sowie organisch bedingte Störungen wie Demenz. Die vielfältigen Ursachen psychischer Störungen liegen auf biologischer, psychischer und sozialer Ebene, wobei die sozialen Determinanten besonders einflussreich und veränderbar sind ([Kirkbride et al. 2024](https://onlinelibrary.wiley.com/doi/10.1002/wps.21160 "Externer Link zur Webseite der Wiley Online Library: The social determinants of mental health and disorder: evidence, prevention and recommendations (Öffnet neues Fenster)")).
 
@@ -2428,7 +2428,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 
 Indikator_ID: 2040201  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/depression-admin-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/depression-admin-praevalenz)
 
 Depressionen sind definiert durch Niedergeschlagenheit, Verlust von Interesse und Freude und schnelle Ermüdbarkeit in Verbindung mit weiteren Symptomen wie verändertem Schlaf- und Essverhalten, veränderter Psychomotorik, Konzentrationsproblemen, Selbstzweifeln bis hin zu Suizidgedanken. Diese Beschwerden sind weit verbreitet und werden stark durch belastende Lebensereignisse oder -umstände beeinflusst ([Lund et al. 2018](https://doi.org/10.1016/S2215-0366(18)30060-9 "Externer Link zur Publikation: Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews (Öffnet neues Fenster)")). Da Depressionen die Lebensqualität, Funktionsfähigkeit und Teilhabe einschränken, sind sie durch eine hohe individuelle und gesellschaftliche Krankheitslast gekennzeichnet. Sie treten häufig gemeinsam mit anderen psychischen Störungen und körperlichen Erkrankungen auf. In Verbindung mit diesen Komorbiditäten sowie in Zusammenhang mit Suizidalität sind Depressionen mit einem erhöhten Sterberisiko assoziiert ([RKI 2021](https://doi.org/10.25646/8831 "Externer Link zum Bericht: Erkennen - Bewerten - Handeln. Schwerpunktbericht zur psychischen Gesundheit der Bevölkerung in Deutschland. Teil 1 – Erwachsenenalter (Öffnet neues Fenster)")).
 
@@ -2467,7 +2467,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 
 Indikator_ID: 2040202  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/depressive-symptomatik)
+[Link zur Website](https://www.gbe.rki.de/depressive-symptomatik)
 
 Depressionen sind definiert durch Niedergeschlagenheit, Verlust von Interesse und Freude sowie schnelle Ermüdbarkeit in Verbindung mit weiteren Symptomen wie verändertem Schlaf- und Essverhalten, veränderter Psychomotorik, Konzentrationsproblemen, Selbstzweifeln bis hin zu Suizidgedanken. Diese Beschwerden sind weit verbreitet und werden stark durch belastende Lebensereignisse oder -umstände beeinflusst ([Lund et al. 2018](https://doi.org/10.1016/S2215-0366(18)30060-9 "Externer Link zur Publikation: Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews (Öffnet neues Fenster)")). Da Depressionen die Lebensqualität, Funktionsfähigkeit und Teilhabe einschränken, sind sie durch eine hohe individuelle und gesellschaftliche Krankheitslast gekennzeichnet. Sie treten häufig gemeinsam mit anderen psychischen Störungen und körperlichen Erkrankungen auf. In Verbindung mit diesen Komorbiditäten sowie in Zusammenhang mit Suizidalität sind Depressionen mit einem erhöhten Sterberisiko assoziiert ([RKI 2021](https://doi.org/10.25646/8831 "Externer Link zum Bericht: Erkennen - Bewerten - Handeln. Schwerpunktbericht zur psychischen Gesundheit der Bevölkerung in Deutschland. Teil 1 – Erwachsenenalter (Öffnet neues Fenster)")).
 
@@ -2546,7 +2546,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2040301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/angststoerungen-admin-praevalenz)
+[Link zur Website](https://www.gbe.rki.de/angststoerungen-admin-praevalenz)
 
 Angst und die sie begleitenden körperlichen und psychischen Reaktionen machen Menschen wachsam und handlungsbereit, um akute Bedrohungs- oder Stresssituationen besser bewältigen zu können. Wenn Ängste, Sorgen oder Befürchtungen jedoch angesichts der realen Bedrohung unverhältnismäßig oder unangemessen, langandauernd und stark beeinträchtigend sind, werden sie als Angststörung beschrieben. Je nach Auslöser und Art der Angstreaktion werden unter anderem Panikstörung, soziale Phobie und generalisierte Angststörung unterschieden. Die Krankheitslast von Angststörungen wird aufgrund von hoher Prävalenz und Chronifizierungsrisiko, häufiger Komorbidität (insbesondere mit Depressionen und Herz-Kreislauf-Erkrankungen) und erhöhter Sterblichkeit als hoch eingeschätzt ([WHO 2023](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders "Externer Link zur Webseite: WHO - Anxiety disorders (Öffnet neues Fenster)"), [Yang et al. 2021](https://doi.org/10.1017/S2045796021000275 "Externer Link zur Webseite von Cambridge University Press: Global, regional and national burden of anxiety disorders from 1990 to 2019: results from the Global Burden of Disease Study 2019 (Öffnet neues Fenster)")).
 
@@ -2585,7 +2585,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 
 Indikator_ID: 2040302  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/angstsymptome)
+[Link zur Website](https://www.gbe.rki.de/angstsymptome)
 
 Angst und die sie begleitenden körperlichen und psychischen Reaktionen machen Menschen wachsam und handlungsbereit, um akute Bedrohungs- oder Stresssituationen besser bewältigen zu können. Wenn Ängste, Sorgen oder Befürchtungen jedoch angesichts der realen Bedrohung unverhältnismäßig, langandauernd und stark beeinträchtigend sind, werden sie als Angststörung beschrieben. Je nach Auslöser und Art der Angstreaktion werden unter anderem Panikstörung, soziale Phobie und generalisierte Angststörung unterschieden. Die Krankheitslast von Angststörungen wird aufgrund von hoher Prävalenz und Chronifizierungsrisiko, häufiger Komorbidität (insbesondere mit Depressionen und Herz-Kreislauf-Erkrankungen) und vermehrter Sterblichkeit als hoch eingeschätzt ([Yang et al. 2021](https://doi.org/10.1017/S2045796021000275 "Externer Link zur Webseite von Cambridge University Press: Global, regional and national burden of anxiety disorders from 1990 to 2019: results from the Global Burden of Disease Study 2019 (Öffnet neues Fenster)"), [WHO 2023](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders "Externer Link zur Webseite: WHO - Anxiety disorders (Öffnet neues Fenster)")).
 
@@ -2649,7 +2649,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2050101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/sterblichkeit)
+[Link zur Website](https://www.gbe.rki.de/sterblichkeit)
 
 Die Sterblichkeit ist einer der grundlegenden Indikatoren der Demografie. Anhand der Sterblichkeit in einer Bevölkerung kann man Rückschlüsse auf ihren Gesundheitszustand ziehen. Eine kontinuierliche Beobachtung der Sterblichkeit hilft, ungünstige Veränderungen in der Bevölkerung frühzeitig zu erkennen und eröffnet die Möglichkeit, dagegen vorzugehen. Studien haben gezeigt, dass erhebliche Unterschiede in der Sterblichkeitsrate zwischen wohlhabenden und deprivierten Regionen bestehen ([Tetzlaff et al. 2024](https://doi.org/10.1016/S2468-2667(24)00049-5 "Externer Link zur Publikation: Age-specific and cause-specific mortality contributions to the socioeconomic gap in life expectancy in Germany, 2003–21: an ecological study (Öffnet neues Fenster)")). Die Sterblichkeit ist auch Grundlage für die Berechnung anderer Maßzahlen, zum Beispiel für die Lebenserwartung. Außerdem kann sie für Vergleiche mit anderen europäischen Ländern genutzt werden und liefert dabei mögliche Erklärungen für Differenzen in der gesundheitlichen Lage und im zeitlichen Verlauf.
 
@@ -2689,7 +2689,7 @@ Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie u
 
 Indikator_ID: 2050103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/lebenserwartung)
+[Link zur Website](https://www.gbe.rki.de/lebenserwartung)
 
 Die Lebenserwartung bei Geburt stellt ein wichtiges zusammenfassendes Maß zur Beschreibung des Gesundheitszustandes der Bevölkerung dar. Der Indikator gibt an, wie viele Lebensjahre ein Neugeborenes durchschnittlich zu erwarten hat, wenn die beobachteten Sterblichkeitsverhältnisse des jeweiligen Jahres über seine gesamte Lebenszeit hinweg konstant blieben. In Deutschland ist die Lebenserwartung in den letzten Jahrzehnten deutlich angestiegen, wobei erhebliche regionale und soziale Unterschiede in Deutschland existieren. So betrug die Differenz der Lebenserwartung zwischen der niedrigsten und höchsten Einkommensgruppe im Zeitraum von 1992 bis 2016 bei Frauen 4,4 Jahre und bei Männern 8,6 Jahre. Im europäischen Vergleich der Lebenserwartungen liegt Deutschland im Mittelfeld, allerdings hinter den meisten west-, nord- und südeuropäischen Ländern ([Nowossadeck et al. 2019](https://doi.org/10.25646/5869 "Externer Link zur Publikation: Entwicklung der Lebenserwartung in Deutschland – aktuelle Trends (Öffnet neues Fenster)"), [Lampert et al. 2019](https://doi.org/10.25646/5868 "Externer Link zur Publikation: Soziale Unterschiede in der Mortalität und Lebenserwartung in Deutschland. Aktuelle Situation und Trends (Öffnet neues Fenster)")).
 
@@ -2728,7 +2728,7 @@ Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie u
 
 Indikator_ID: 2050301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/koerperliche-einschraenkungen)
+[Link zur Website](https://www.gbe.rki.de/koerperliche-einschraenkungen)
 
 Körperliche Einschränkungen können generell verschiedene Funktionen wie das Sehen, Hören, Kauen und Beißen oder auch den Bewegungsapparat betreffen. In der Darstellung wird hier ausschließlich auf die Mobilität fokussiert, da es in der „UN Decade of Healthy Ageing“ ein wichtiges Konzept darstellt. Mobilität, also die Fähigkeit, sich in der Umgebung fortzubewegen, spielt eine wichtige Rolle bei der Durchführung von Alltagsaktivitäten, für die selbständige Lebensführung und die gesellschaftliche Teilhabe von Menschen ([Freiberger et al. 2020](https://doi.org/10.3389/fphys.2020.00881 "Externer Link zur Publikation: Mobility in Older Community-Dwelling Persons: A Narrative Review (Öffnet neues Fenster)")). Einschränkungen in der körperlichen Mobilität gehen häufig mit zunehmendem Alter und chronischen Erkrankungen einher und tragen dazu bei, dass Menschen bei der Ausführung grundlegender Aktivitäten Hilfe benötigen, die in schwerwiegenden Fällen vorwiegend in Pflegeheimen erbracht werden kann. Mobilitätseinschränkungen gelten als Risikofaktor für [Stürze](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/UnfaelleUndVerletzungen/Unfaelle/Stuerze/stuerze_node.html "Stürze (ab 65 Jahre)"), eingeschränkte psychische Gesundheit, Abnahme der Funktionsfähigkeit oder Schwierigkeiten beim Zugang zu medizinischer Versorgung ([Musich et al. 2018](https://doi.org/10.1016/j.gerinurse.2017.08.002 "Externer Link zur Publikation:  The impact of mobility limitations on health outcomes among older adults (Öffnet neues Fenster)")).
 
@@ -2798,7 +2798,7 @@ Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärz
 
 Indikator_ID: 2050302  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/kognitive-einschraenkungen)
+[Link zur Website](https://www.gbe.rki.de/kognitive-einschraenkungen)
 
 Kognitive Fähigkeiten umfassen alle geistigen Fähigkeiten und Denkprozesse des menschlichen Gehirns, zum Beispiel planerisches Handeln, Konzentration, Aufmerksamkeit oder das Gedächtnis. „Gesundes kognitives Altern“ ist eine Grundvoraussetzung für ein gesundes Älterwerden und eine unabhängige Lebensführung. Da eine objektive Testung der kognitiven Leistungsfähigkeit in Befragungsstudien nicht möglich ist, kann nur die Selbsteinschätzung einer relevanten Gedächtnisverschlechterung ([Jessen et al. 2007](https://doi.org/10.1017/S0033291707001122 "Externer Link zur Publikation: Patterns of subjective memory impairment in the elderly: association with memory performance (Öffnet neues Fenster)")) Hinweise auf die Verbreitung kognitiver Einschränkungen in der Bevölkerung geben. Personen mit einer subjektiven Gedächtnisverschlechterung haben ein erhöhtes Risiko für eine Reihe negativer gesundheitlicher Folgen, zum Beispiel das Auftreten einer Demenzerkrankung, die Verschlechterung kognitiver Fähigkeiten und eine geringere Lebenserwartung ([Pike et al. 2021](https://doi.org/10.1007/s11065-021-09522-3 "Externer Link zur Publikation: Subjective Cognitive Decline: Level of Risk for Future Dementia and Mild Cognitive Impairment, a Meta-Analysis of Longitudinal Studies (Öffnet neues Fenster)"), [Tangen et al. 2019](https://doi.org/10.1177/1403494819885234 "Externer Link zur Publikation: Subjective memory impairment, instrumental activities of daily living and longitudinal effect on mortality among older adults in a population-based cohort study: The HUNT Study (Öffnet neues Fenster)")).
 
@@ -2854,7 +2854,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2050303  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/gali)
+[Link zur Website](https://www.gbe.rki.de/gali)
 
 Die Alterung der Bevölkerung, die mit Beeinträchtigungen des Gesundheitszustands einhergeht, stellt eine Herausforderung für die Gesellschaft dar, insbesondere dann, wenn die Beeinträchtigungen zu Einschränkungen bei der sozialen Teilhabe in verschiedenen Bereichen des Lebens führen ([Van Oyen et al. 2018](https://doi.org/10.1186/s13690-018-0270-8 "Externer Link zur Publikation: Measuring disability: a systematic review of the validity and reliability of the Global Activity Limitations Indicator (GALI) (Öffnet neues Fenster)")). Zur Beschreibung der Beschränkungen wird seit etwa 20 Jahren der Indikator zu lang andauernden gesundheitsbedingten Einschränkungen bei der Ausübung von Alltagsaktivitäten (Global Activity Limitation Indicator, GALI) verwendet, der den Anteil der von Einschränkungen betroffenen Bevölkerung abbildet. Der Indikator gehört neben den Indikatoren zur [subjektiven allgemeinen Gesundheit](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/SubjektiveGesundheit/SelbsteingeschaetzteGesundheit/SelbsteingeschaetzteAllgemeineGesundheit/SelbsteingeschaetzteAllgemeineGesundheit_node.html "Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)") und zum [chronischen Kranksein](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/Funktionseinschraenkungen/ChronischesKranksein/chronischesKranksein_node.html "Chronisches Kranksein (ab 18 Jahre)") zu den drei zentralen Kennzahlen des Gesundheitsstatus, die etablierte Bestandteile des „Minimum European Health Module“ (MEHM) sind ([Cox et al. 2009](https://doi.org/10.1007/s00038-009-7104-y "Externer Link zur Publikation: The reliability of the Minimum European Health Module (Öffnet neues Fenster)")).
 
@@ -2919,7 +2919,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 2050304  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/iadl)
+[Link zur Website](https://www.gbe.rki.de/iadl)
 
 Eine Aktivitätseinschränkung gemäß der Internationalen Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit (ICF) ist die Schwierigkeit oder Unfähigkeit, eine bestimmte Aktivität auszuführen. Die instrumentellen Aktivitäten des täglichen Lebens (iADL) erfassen dabei Einschränkungen in Aktivitäten zur selbständigen Versorgung im eigenen Haushalt. Dieses Konzept umfasst unter anderem Tätigkeiten wie Zubereitung von Mahlzeiten, Telefonieren, Wohnungsreinigung, Einkaufen oder Regelung finanzieller Angelegenheiten ([Lawton und Brody 1969](https://doi.org/10.1093/geront/9.3_Part_1.179 "Externer Link zur Publikation: Assessment of Older People: Self-Maintaining and Instrumental Activities of Daily Living (Öffnet neues Fenster)")). Die iADL erfassen Funktionseinschränkungen unabhängig vom sonstigen Gesundheitszustand und geben Aufschluss über die Fähigkeit von Personen, ihren Alltagsanforderungen nachzukommen. Die Ausübung dieser Tätigkeiten sind jedoch abhängig von gesellschaftlich definierten sozialen Rollenvorgaben in der Verteilung der Hausarbeit. Einschränkungen in den iADL gehen mit verschiedenen gesundheitlichen Folgen einher, nicht zuletzt mit einer erhöhten Mortalität älterer Menschen ([Hennessy et al. 2015](https://doi.org/10.1016/j.pmrj.2015.05.014 "Externer Link zur Publikation: Disability Stage is an Independent Risk Factor for Mortality in Medicare Beneficiaries Aged 65 Years and Older (Öffnet neues Fenster)")).
 
@@ -3001,7 +3001,7 @@ Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärz
 
 Indikator_ID: 2050305  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/chronisches-kranksein)
+[Link zur Website](https://www.gbe.rki.de/chronisches-kranksein)
 
 Chronisches Kranksein ist eine Dimension der Gesundheit, die lang andauernde (chronische) Gesundheitsprobleme oder Krankheiten erfasst. Erhoben wird das selbsteingeschätzte Kranksein und damit die subjektive Einschätzung von Befragten darüber, ob bei ihnen eine chronische Krankheit besteht. Diese Kennzahl kann verwendet werden, um den allgemeinen Gesundheitszustand, die Prävalenz von chronischen Krankheiten, gesundheitliche Ungleichheiten und den Bedarf an Gesundheitsversorgung auf Bevölkerungsebene zu bewerten ([Eurostat 2017](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Chronic_morbidity "Externer Link Webseite zu Eurostat: Glossary: Chronic morbidity (Öffnet neues Fenster)")). In Deutschland dominieren nichtübertragbare chronische körperliche und psychische Erkrankungen das Krankheits- und Sterbegeschehen, zum Beispiel Krebs, Herz-Kreislauf-Erkrankungen, chronische Lungenerkrankungen und Depressionen ([WHO 2018](https://www.who.int/publications/i/item/9789241514620 "Externer Link zur Webseite der WHO: Noncommunicable diseases country profiles 2018 (Öffnet neues Fenster)")). Diese gehen mit einem erhöhten Risiko für gesundheitliche Beeinträchtigungen und vorzeitige Sterblichkeit einher und können mit Infektionskrankheiten interagieren.
 
@@ -3068,7 +3068,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3010101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/zahnvorsorge)
+[Link zur Website](https://www.gbe.rki.de/zahnvorsorge)
 
 Die Inanspruchnahme zahnärztlicher Kontrolluntersuchungen ist neben einer effektiven Mundhygiene, einer zahngesunden Ernährung und der Anwendung von Fluoriden eine wichtige Voraussetzung für den Erhalt der Mundgesundheit ([Sicca et al. 2016](https://doi.org/10.4317/jced.52890 "Externer Link zur Webseite: Prevention of dental caries: A review of effective treatments (Öffnet neues Fenster)")). Einmal pro Kalenderhalbjahr haben gesetzlich Versicherte ab 18 Jahren Anspruch auf eine derartige Untersuchung. Sie beinhaltet eine eingehende Untersuchung zur Feststellung von Zahn-, Mund- und Kieferkrankheiten, eine Anleitung zur effektiven Mundhygiene sowie Hinweise zur Reduktion von Risikofaktoren. Regelmäßige Zahnvorsorgeuntersuchungen leisten einen wichtigen Beitrag zur Verringerung der oralen Krankheitslast und tragen wesentlich zum Erhalt der Funktionsfähigkeit und zur mundgesundheitsbezogen Lebensqualität bei. Dies ist auch deshalb wichtig, weil Erkrankungen der Mundhöhle, wie etwa Parodontitis, assoziiert sind mit nichtübertragbaren Erkrankungen wie Diabetes, Herz-Kreislauf- und Atemwegserkrankungen ([Seitz et al. 2019](https://doi.org/10.5888/pcd16.180641 "Externer Link zur Webseite des CDC: Current Knowledge on Correlations Between Highly Prevalent Dental Conditions and Chronic Diseases: An Umbrella Review (Öffnet neues Fenster)")).
 
@@ -3138,7 +3138,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3010102  
 Stand: 17. Dezember 2024  
-[Zur Website](https://www.gbe.rki.de/influenzaimpfung)
+[Link zur Website](https://www.gbe.rki.de/influenzaimpfung)
 
 Die Influenza-Impfung ist als saisonale Impfung im Herbst für alle Personen ab 60 Jahren empfohlen ([RKI 2024](https://www.rki.de/DE/Content/Kommissionen/STIKO/Empfehlungen/Impfempfehlungen_node.html "Externer Link zur Webseite des RKI: Empfehlungen der Ständigen Impfkommission (Öffnet neues Fenster)")). Durch die Impfung sollen Infektionen sowie dadurch verursachte schwere Krankheitsverläufe, Folgeerkrankungen, zum Beispiel bakterielle Lungenentzündung oder Herzinfarkt, und mögliche Todesfälle vermieden werden. Die Weltgesundheitsorganisation (WHO) und die Europäische Kommission (EU) einigten sich für die Influenza-Impfung auf eine Zielimpfquote von 75 %, die in den Risikogruppen – darunter ältere Menschen ab 60 Jahre – der Mitgliedstaaten erreicht werden soll.
 
@@ -3175,7 +3175,7 @@ Der Datensatz enthält ausschließlich Abrechnungsdaten der ambulanten vertrags�
 
 Indikator_ID: 3010103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/darmkrebsfrueherkennung)
+[Link zur Website](https://www.gbe.rki.de/darmkrebsfrueherkennung)
 
 [Darmkrebs](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsInzidenz/darmkrebsInzidenz_node.html "Darmkrebs: Inzidenz") gehört zu den häufigsten Krebserkrankungen bei Erwachsenen in Deutschland, jede neunte Krebsneuerkrankung betrifft den Darm. Das Erkrankungsrisiko steigt mit dem Alter, die Mehrzahl der Betroffenen erhält die Diagnose jenseits des 70. Lebensjahres. Darmkrebs ist bei beiden Geschlechtern die dritthäufigste [Krebstodesursache](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsSterblichkeit/darmkrebsSterblichkeit_node.html "Darmkrebs: Sterblichkeit") ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link zur Publikation: Krebs in Deutschland für 2019/2020 (Öffnet neues Fenster)")). Zu den wichtigsten beeinflussbaren Risikofaktoren für Darmkrebs gehören [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") und [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), gefolgt von Bewegungsmangel, ballaststoffarmer Ernährung, Alkoholkonsum und häufiger Verzehr von rotem beziehungsweise verarbeitetem [Fleisch](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Ernaehrungsverhalten/Fleischkonsum/fleischkonsum_node.html "Fleischkonsum (ab 18 Jahre)"). Zur Früherkennung von Darmkrebs im Rahmen des gesetzlichen Darmkrebs-Screening-Programms können Personen im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre einen immunologischen Test auf verstecktes Blut im Stuhl durchführen lassen. Ab 50 Jahren (Männer) beziehungsweise 55 Jahren (Frauen) sieht das Krebsfrüherkennungsprogramm eine Darmspiegelung (Koloskopie) vor, die bei unauffälligem Befund nach zehn Jahren wiederholt werden kann ([G-BA 2023](https://www.g-ba.de/richtlinien/104/ "Externer Link zur Webseite des Gemeinsamen Bundesausschusses: Richtlinie für organisierte Krebsfrüherkennungsprogramme (Öffnet neues Fenster)")).
 
@@ -3231,7 +3231,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3020101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/allgemeinaerztliche-versorgung)
+[Link zur Website](https://www.gbe.rki.de/allgemeinaerztliche-versorgung)
 
 Die ambulante Versorgung umfasst alle Behandlungsleistungen, die außerhalb von Kliniken erbracht werden. Den größten Bereich bildet die ambulante ärztliche Versorgung, in Deutschland vor allem durch niedergelassene Ärztinnen und Ärzte. Bei vielen gesundheitlichen Beschwerden stellt die allgemein- und hausärztliche Versorgung als erste Anlaufstelle im professionellen medizinischen Versorgungssystem Behandlungsbedarf fest, führt Untersuchungen und Behandlungen durch und veranlasst bei Bedarf weitere Leistungen im Gesundheits- und Sozialwesen ([Prütz und Rommel 2017](https://doi.org/10.17886/RKI-GBE-2017-116 "Externer Link zur Publikation: Inanspruchnahme ambulanter ärztlicher Versorgung in Deutschland (Öffnet neues Fenster)"), [Prütz et al. 2021](https://edoc.rki.de/handle/176904/8751 "Externer Link zur Publikation: Inanspruchnahme ambulanter medizinischer Leistungen in Deutschland – Ergebnisse der Studie GEDA 2019/2020-EHIS (Öffnet neues Fenster)")).
 
@@ -3299,7 +3299,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3020102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/fachaerztliche-versorgung)
+[Link zur Website](https://www.gbe.rki.de/fachaerztliche-versorgung)
 
 Die ambulante Versorgung umfasst alle Behandlungsleistungen, die außerhalb von Kliniken erbracht werden. Den größten Bereich bildet die ambulante ärztliche Versorgung, in Deutschland vor allem durch niedergelassene Ärztinnen und Ärzte. Bei vielen gesundheitlichen Beschwerden stellt die allgemeinärztliche Versorgung medizinischen Behandlungsbedarf fest. Fachärztinnen und Fachärzte übernehmen die Verordnung und Durchführung von spezialisierten Diagnosen und Therapien ([Prütz und Rommel 2017](https://doi.org/10.17886/RKI-GBE-2017-116 "Externer Link zur Publikation: Inanspruchnahme ambulanter ärztlicher Versorgung in Deutschland (Öffnet neues Fenster)"), [Prütz et al. 2021](https://edoc.rki.de/handle/176904/8751 "Externer Link zur Publikation: Inanspruchnahme ambulanter medizinischer Leistungen in Deutschland – Ergebnisse der Studie GEDA 2019/2020-EHIS (Öffnet neues Fenster)")).
 
@@ -3367,7 +3367,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3020201  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/krankenhausversorgung)
+[Link zur Website](https://www.gbe.rki.de/krankenhausversorgung)
 
 Neben der ambulanten Versorgung, die meist in Arztpraxen und medizinischen Versorgungszentren stattfindet, ist die stationäre Versorgung in Krankenhäusern eine wichtige Säule des Gesundheitssystems. Zu den Aufgaben der Krankenhäuser gehören neben der Versorgung von Patientinnen und Patienten auch die klinische Forschung und die Ausbildung in den Gesundheitsberufen beziehungsweise die Lehre. Im Jahr 2022 wurde knapp ein Viertel der Gesundheitsausgaben in Deutschland für Leistungen der Krankenhäuser aufgewendet ([Destatis 2024](https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Gesundheit/gesundheitsausgabenrechnung.html "Externer Link zum Bericht: Qualitätsbericht - Gesundheitsausgabenrechnung (Öffnet neues Fenster)")).
 
@@ -3448,7 +3448,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 Indikator_ID: 3020301  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/pflegeleistungen)
+[Link zur Website](https://www.gbe.rki.de/pflegeleistungen)
 
 Mit steigendem Anteil älterer Menschen an der Bevölkerung in Deutschland wächst auch der Anteil der Pflegebedürftigen ([Matzk et al. 2023](https://doi.org/10.1007/978-3-662-67669-1_15 "Externer Link zum Bericht: Pflegebedürftigkeit in Deutschland (Öffnet neues Fenster)"), [Destatis 2021](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Pflege/_inhalt.html "Externer Link zur Webseite von Destatis: Gesundheit: Daten zur Pflege (Öffnet neues Fenster)")).Pflegebedürftige Menschen sind gesundheitlich eingeschränkt, was mit Schwierigkeiten zum Beispiel in der Mobilität und der selbstständigen Lebensführung einhergehen kann; sie benötigen daher Hilfe und Unterstützung. Diese Unterstützungsleistungen werden überwiegend durch Angehörige erbracht, im höheren Lebensalter auch in stationären Einrichtungen ([Demografieportal 2024](https://www.demografie-portal.de/DE/Fakten/pflegebeduerftige-versorgung.html "Externer Link zur Webseite des Demografieportals: Versorgung von Pflegebedürftigen (Öffnet neues Fenster)")). Die Kosten dafür werden im Rahmen der gesetzlichen Pflegeversicherung abgedeckt. Durch die Alterung der Bevölkerung wird erwartet, dass es zu einer größer werdenden Lücke bei der Versorgung von Pflegebedürftigen kommen kann ([Blüher et al. 2021](https://doi.org/10.1007/978-3-662-63107-2_6 "Externer Link zur Publikation: Vermeidung von Pflegebedürftigkeit – Herausforderungen für Forschung und Praxis (Öffnet neues Fenster)")). Daher ist es relevant, zu beobachten, wie sich die Anzahl der Pflegebedürftigen weiter entwickeln wird und welche Altersgruppen besonders betroffen sind.
 
@@ -3487,7 +3487,7 @@ Die Voraussetzung für den Erhalt von Leistungen der Pflegeversicherung ist, das
 
 Indikator_ID: 3020401  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/diabetes-amputationen)
+[Link zur Website](https://www.gbe.rki.de/diabetes-amputationen)
 
 Diabetes kann im Krankheitsverlauf zu Durchblutungsstörungen und Nervenschädigungen an den Extremitäten führen. Bei nicht rechtzeitiger oder nicht adäquater Versorgung beispielsweise eines diabetischen Fußsyndroms kann die Amputation unterer Extremitäten notwendig werden. Der Indikator *Diabetesbedingte Amputationen* ist Teil des von der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) veröffentlichten Berichts Health at a Glance ([OECD 2023](https://doi.org/10.1787/507433b0-en "Externer Link zur Publikation: Health at a Glance 2022 - OECD Indicators (Öffnet neues Fenster)")), welcher alle zwei Jahre erscheint und diabetesbedingte Major-Amputationen (Amputationen oberhalb des Knöchels) betrachtet. Amputationen führen zu einer starken Einschränkung der gesundheitlichen Lebensqualität und hohen Kosten für das Gesundheitssystem ([Pscherer et al. 2012](https://doi.org/10.1016/j.pcd.2012.02.004 "Externer Link zur Publikation: Amputation rate and risk factors in type 2 patients with diabetic foot syndrome under real-life conditions in Germany (Öffnet neues Fenster)")). Zudem sind sie ein Indikator für die Versorgungsqualität von Diabetes.
 
@@ -3524,7 +3524,7 @@ Die fallpauschalenbezogene Krankenhausstatistik (DRG-Statistik) beinhaltet Infor
 
 Indikator_ID: 3020402  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/diabetes-krankenhausfaelle)
+[Link zur Website](https://www.gbe.rki.de/diabetes-krankenhausfaelle)
 
 Diabetes kann aufgrund von Komplikationen oder Blutzuckerentgleisungen eine stationäre Behandlung erfordern. Diese Krankenhausfälle sind ambulant-sensitiv, das heißt, diese Fälle wären durch eine angemessene und rechtzeitige ambulante Versorgung potenziell vermeidbar. Der Indikator *Ambulant-sensitive Krankenhausfälle* ist international etabliert und wird alle zwei Jahre als Teil des von der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) veröffentlichten Berichts Health at a Glance im internationalen Vergleich publiziert ([OECD 2023](https://doi.org/10.1787/507433b0-en "Externer Link zur Publikation: Health at a Glance 2022 - OECD Indicators (Öffnet neues Fenster)")). Auf der Grundlage der OECD-Definition werden nur Krankenhausaufnahmen mit der Hauptdiagnose Diabetes einbezogen, da der Indikator die ambulante Versorgungsqualität messen soll. Stationäre Fälle mit Diabetes als Nebendiagnose, die aufgrund der zunehmenden Prävalenz des Diabetes im Alter auf viele Behandlungsfälle zutreffen ([Lehmann et al. 2019](https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w6/drs/ab_10900/10968.pdf "Externer Link zur Bericht: Diabetes mellitus / Typ-2 in Brandenburg: Volkskrankheit Diabetes entgegenwirken (Öffnet neues Fenster)")), werden nicht berücksichtigt.
 
@@ -3561,7 +3561,7 @@ Die fallpauschalenbezogene Krankenhausstatistik (DRG-Statistik) beinhaltet Infor
 
 Indikator_ID: 4010101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/tabakkontrolle)
+[Link zur Website](https://www.gbe.rki.de/tabakkontrolle)
 
 Das [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") von Zigaretten und anderen Tabakprodukten ist einer der wichtigsten Risikofaktoren für die Entstehung von nichtübertragbaren Erkrankungen wie Lungenkrebs, chronisch-obstruktive Lungenerkrankung (COPD), Herz-Kreislauf-Erkrankung und Typ-2-Diabetes ([HHS 2014](https://www.ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf "Externer Link zur Webseite des U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: The Health Consequences of Smoking—50 Years of Progress (Öffnet neues Fenster)")). Maßnahmen zur Senkung des Anteils an Rauchenden in der Bevölkerung können einen wesentlichen Beitrag zur Verminderung der Krankheitslast liefern. Die europäische Tabakkontrollskala quantifiziert die Umsetzung von gesetzlichen Maßnahmen mit dem Ziel der Reduktion des Tabakkonsums und [Passivrauchens](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Passivrauchbelastung/passivrauchbelastung_node.html "Passivrauchbelastung (ab 18 Jahre)") auf der Ebene der einzelnen europäischen Länder und ermöglicht damit einen internationalen Vergleich ([TCS 2021](https://www.tobaccocontrolscale.org/wp-content/uploads/2022/12/TCS-Report-2021-Interactive-V4.pdf "Externer Link zur Webseite: THE TOBACCO CONTROL SCALE 2021 IN EUROPE (Öffnet neues Fenster)")). 
 
@@ -3601,7 +3601,7 @@ Die Tabakkontrollskala ist ein Bewertungsinstrument zur Evaluation der Tabakkont
 
 Indikator_ID: 4010102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/lebensmittelbesteuerung)
+[Link zur Website](https://www.gbe.rki.de/lebensmittelbesteuerung)
 
 Die Lebensmittelbesteuerung basiert auf gesetzlich vorgeschriebenen Umsatzsteuersätzen (umgangssprachlich auch Mehrwertsteuer genannt) für Lebensmittel und Getränke in Deutschland und wirkt sich auf die Lebensmittelpreise aus. Da Lebensmittelpreise das Einkaufverhalten beeinflussen können, insbesondere von finanziell schlechter gestellten Personen ([Rao et al. 2013](https://doi.org/10.1136/bmjopen-2013-004277 "Externer Link zur Publikation: Do healthier foods and diet patterns cost more than less healthy options? A systematic review and meta-analysis (Öffnet neues Fenster)")), wird die Besteuerung für ausgewählte Lebensmittelgruppen beschrieben, deren Konsum das Risiko für nichtübertragbare Erkrankungen und damit verbundene gesundheitliche Einschränkungen beeinflusst ([Schwingshackl et al. 2019](https://doi.org/10.1007/s10654-019-00523-4 "Externer Link zur Publikation: Intake of 12 food groups and disability-adjusted life years from coronary heart disease, stroke, type 2 diabetes, and colorectal cancer in 16 European countries (Öffnet neues Fenster)")). Durch die Besteuerung von Lebensmitteln entsprechend ihres gesundheitlichen Werts sollte der Lebensmittelpreis so verändert werden, dass eine Ernährung mit Lebensmitteln, die als gesundheitsfördernd gelten, für die gesamte Bevölkerung möglich ist ([Alagiyawanna et al. 2015](https://doi.org/10.1186/s12889-015-2201-8 "Externer Link zur Publikation: Studying the consumption and health outcomes of fiscal interventions (taxes and subsidies) on food and beverages in countries of different income classifications; a systematic review (Öffnet neues Fenster)")).
 
@@ -3637,7 +3637,7 @@ Das Umsatzsteuergesetz bietet Informationen zu der in Deutschland erhobenen Umsa
 
 Indikator_ID: 4010103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/praeventionsausgaben)
+[Link zur Website](https://www.gbe.rki.de/praeventionsausgaben)
 
 Prävention zielt darauf ab, die Krankheitslast durch gezielte Maßnahmen zu verringern. Maßnahmen können vor der Krankheitsentstehung ansetzen (Primärprävention), der frühzeitigen Erkennung von Krankheiten dienen (Sekundärprävention) oder Komplikationen beziehungsweise das Wiederauftreten einer Erkrankung verzögern oder verhindern (Tertiärprävention) ([Franzkowiak 2022](https://doi.org/10.17623/BZGA:Q4-i091-3.0 "Externer Link zur Publikation: Prävention und Krankheitsprävention (Öffnet neues Fenster)")). Präventionsausgaben sind Grundlage für die Umsetzung von Präventionsmaßnahmen. Bundesweite Angaben zu Gesundheitsausgaben insgesamt liegen durch die Gesundheitsausgabenrechnung (GAR) vor ([NPK 2023](https://www.npk-info.de/fileadmin/user_upload/ueber_die_npk/downloads/2_praeventionsbericht/zweiter_npk_praeventionsbericht_barrierefrei.pdf "Externer Link zur Bericht: Die Nationale Präventionskonferenz: Zweiter Präventionsbericht (Öffnet neues Fenster)")). Die darin enthaltenen Ausgaben für „Prävention und Gesundheitsschutz“ fassen alle Leistungen im Gesundheitswesen zusammen, die bereits im Vorfeld oder Frühstadium einer Erkrankung greifen und deren Entstehen oder weitere Verbreitung vorbeugen sollen.
 
@@ -3671,7 +3671,7 @@ Die Berechnung der Gesundheitsausgaben erfolgt auf Basis von 35 Datenquellen. Da
 
 Indikator_ID: 4020101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/verbraucherpreisindex)
+[Link zur Website](https://www.gbe.rki.de/verbraucherpreisindex)
 
 Der Verbraucherpreisindex misst die „durchschnittliche Preisentwicklung aller Waren und Dienstleistungen, die private Haushalte für Konsumzwecke kaufen“ ([Destatis 2024](https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Methoden/Erlaeuterungen/verbraucherpreisindex.html "Externer Link zur Webseite: Destatis - Verbraucherpreisindex (Öffnet neues Fenster)")). Die jährliche Veränderung des Verbraucherpreisindex (Vergleich zum Vorjahr) wird umgangssprachlich als Teuerungs- beziehungsweise Inflationsrate bezeichnet. Da Lebensmittelpreise das Einkaufsverhalten beeinflussen können, insbesondere von finanziell schlechter gestellten Personen ([Rao et al. 2013](https://doi.org/10.1136/bmjopen-2013-004277 "Externer Link zur Publikation: Do healthier foods and diet patterns cost more than less healthy options? A systematic review and meta-analysis (Öffnet neues Fenster)")), wird der Verbraucherpreisindex für ausgewählte Lebensmittelgruppen, die in Zusammenhang mit nichtübertragbaren Erkrankungen stehen ([Schwingshackl et al. 2019](https://doi.org/10.1007/s10654-019-00523-4 "Externer Link zur Publikation: Intake of 12 food groups and disability-adjusted life years from coronary heart disease, stroke, type 2 diabetes, and colorectal cancer in 16 European countries (Öffnet neues Fenster)")), dargestellt. Zur Einordnung der Ergebnisse werden zudem der Verbraucherpreisindex für alle Nahrungsmittel und alkoholfreien Getränke insgesamt sowie für Mineralwasser berichtet.
 
@@ -3706,7 +3706,7 @@ Der Verbraucherpreisindex wird jährlich mit Bezug zu einem festgelegten Basisja
 
 Indikator_ID: 4020102  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/armutsrisikoquote)
+[Link zur Website](https://www.gbe.rki.de/armutsrisikoquote)
 
 Menschen, die aufgrund eines geringen Einkommens von Armut betroffen oder bedroht sind, erfahren materielle und strukturelle Benachteiligung, haben verminderte Chancen auf gesellschaftliche Teilhabe und haben erhöhte Risiken für gesundheitliche Beeinträchtigungen, chronische Erkrankungen und vorzeitige Sterblichkeit. Die Armutsrisikoquote (auch Armutsgefährdungsquote) beschreibt den Anteil in der Bevölkerung, der unter der Armutsrisikogrenze lebt. Die Armutsrisikogrenze wird dann unterschritten, wenn das anhand von Anzahl und Alter der Haushaltsmitglieder bedarfsgewichtete Haushaltseinkommen (Netto-Äquivalenzeinkommen) weniger als 60 % des mittleren Einkommens der Gesamtbevölkerung beträgt (relative Armut) ([Lampert et al. 2019](https://doi.org/10.25646/5868 "Externer Link zur Publikation: Soziale Unterschiede in der Mortalität und Lebenserwartung in Deutschland. Aktuelle Situation und Trends (Öffnet neues Fenster)"), [Lampert et al. 2017](https://doi.org/10.17886/RKI-GBE-2017-003 "Externer Link zur Publikation: Gesundheitliche Ungleichheit in verschiedenen Lebensphasen (Öffnet neues Fenster)")). 
 
@@ -3744,7 +3744,7 @@ Die regionalen Unterschiede im Einkommensniveau werden nicht berücksichtigt. Ei
 
 Indikator_ID: 4020103  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/arbeitslosenquote)
+[Link zur Website](https://www.gbe.rki.de/arbeitslosenquote)
 
 In einer Vielzahl von nationalen und internationalen Studien wurde nachgewiesen, dass Personen in Arbeitslosigkeit im Vergleich zu Erwerbstätigen einen schlechteren Gesundheitszustand aufweisen, insbesondere in Bezug auf die psychische Gesundheit. Von Arbeitslosigkeit betroffene Personen erfahren materielle Benachteiligungen und haben geringere Chancen der gesellschaftlichen Teilhabe. Sie sind häufiger von körperlichen Beschwerden und Beeinträchtigungen betroffen und insbesondere häufiger von psychischen Störungen wie Depressionen oder Angststörungen. Dabei ist das Zusammenwirken von Arbeitslosigkeit und Gesundheit komplex. Gesundheitliche Beeinträchtigungen treten nicht nur als Folge von Arbeitslosigkeit auf, sondern vermindern ebenso die Chancen einer Integration in den Arbeitsmarkt ([Paul und Moser 2009](https://www.sciencedirect.com/science/article/pii/S0001879109000037?via%3Dihub "Externer Link zur Webseite von Science Direkt: Unemployment impairs mental health: Meta-analyses (Öffnet neues Fenster)"), [Kroll et al. 2016](http://doi.org/10.1007/s00103-015-2282-7 "Externer Link zur Publikation: Arbeitslosigkeit und ihre Auswirkungen auf die Gesundheit (Öffnet neues Fenster)")).
 
@@ -3783,7 +3783,7 @@ Aufgrund der Neukonzeption des Mikrozensus im Jahr 2020 sind Vergleiche mit Vorj
 
 Indikator_ID: 4020104  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/hochschulbildung)
+[Link zur Website](https://www.gbe.rki.de/hochschulbildung)
 
 Bildung ist eine wichtige Ressource für Gesundheit. Sie fördert Chancen auf soziale und wirtschaftliche Teilhabe, legt einen Grundstein für gesunde Lebens- und Arbeitsbedingungen wie auch eine gesunde Lebensweise. Ein hoher formaler Bildungserfolg wie der Abschluss eines Hochschulstudiums geht mit Vorteilen in der Arbeitswelt einher, indem er zum Beispiel Zugang zu beruflichen Positionen mit hoher Autonomie, Anerkennung und Entlohnung bei vergleichsweise geringen Gesundheitsrisken fördert. Außerdem begünstigt Bildung die Entwicklung von Kompetenzen zur Krankheitsvorbeugung und -bewältigung. Gesundheitsprobleme und Erkrankungen, die mit dauerhaften Einschränkungen im Alltag oder Beruf einhergehen, sind unter Personen mit Hochschulbildung weniger verbreitet als unter Personen mit mittleren oder niedrigen Bildungsabschlüssen ([Lampert et al. 2021](https://www.bpb.de/shop/buecher/zeitbilder/328110/datenreport-2021/ "Externer Link zur Webseite des Berichts: Datenreport 2021 - Ein Sozialbericht für die Bundesrepublik Deutschland (Öffnet neues Fenster)")). Dies spiegelt sich in einer geringeren vorzeitigen Sterblichkeit und einer längeren Lebenserwartung höherer Bildungsgruppen wider ([IHME-CHAIN Collaborators 2024](https://doi.org/10.1016/s2468-2667(23)00306-7 "Externer Link zur Publikation: Effects of education on adult mortality: a global systematic review and meta-analysis (Öffnet neues Fenster)")).
 
@@ -3821,7 +3821,7 @@ Aufgrund einer Neugestaltung des Mikrozensus sind die Ergebnisse ab dem Erhebung
 
 Indikator_ID: 4030101  
 Stand: 20. November 2024  
-[Zur Website](https://www.gbe.rki.de/verkehrsmittelnutzung)
+[Link zur Website](https://www.gbe.rki.de/verkehrsmittelnutzung)
 
 Die Wahl des Verkehrsmittels beeinflusst das Bewegungsverhalten zum Zurücklegen von Wegstrecken eines Menschen. Körperliche Inaktivität, die sich auf jegliche Art der Bewegung in unterschiedlichen Bereichen, wie in der Freizeit, im Arbeitsumfeld, im Haushalt und auch beim Zurücklegen von Wegen von Ort zu Ort bezieht, stellt einen wichtigen Risikofaktor für die Entwicklung von Übergewicht und nichtübertragbaren Erkrankungen wie Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen und Demenz dar ([Katzmarzyk et al. 2022](http://doi.org/10.1136/bjsports-2020-103640 "Externer Link zur Publikation: Physical inactivity and non-communicable disease burden in low-income, middle-income and high-income countries British Journal of Sports Medicine (Öffnet neues Fenster)"), [Schönbach et al. 2020](https://doi.org/10.1186/s12966-020-00999-4 "Externer Link zur Publikation: Equity impacts of interventions to increase physical activity among older adults: a quantitative health impact assessment. (Öffnet neues Fenster)")).
 
